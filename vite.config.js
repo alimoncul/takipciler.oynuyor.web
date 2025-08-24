@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: process.env.NODE_ENV === 'production'
-    ? '/takipciler.oynuyor.web/results'
+    ? '/takipciler.oynuyor.web/'
     : './',
   build: {
     outDir: 'dist',
