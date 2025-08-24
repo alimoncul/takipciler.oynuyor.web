@@ -74,22 +74,10 @@ const MatchDetails = ({ match }) => {
         </div>
 
         {/* Match Summary Stats */}
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="bg-gray-700/50 rounded-lg p-3 text-center">
             <p className="text-2xl font-bold text-game-primary">{match.totalPlayers}</p>
             <p className="text-gray-400 text-sm">Oyuncu</p>
-          </div>
-          <div className="bg-gray-700/50 rounded-lg p-3 text-center">
-            <p className="text-2xl font-bold text-red-400">
-              {match.standings?.reduce((total, player) => total + (player.eliminations || 0), 0) || 0}
-            </p>
-            <p className="text-gray-400 text-sm">Eleme</p>
-          </div>
-          <div className="bg-gray-700/50 rounded-lg p-3 text-center">
-            <p className="text-2xl font-bold text-green-400">
-              {winner?.survivedFor?.formatted || 'N/A'}
-            </p>
-            <p className="text-gray-400 text-sm">Süre</p>
           </div>
           <div className="bg-gray-700/50 rounded-lg p-3 text-center">
             <p className="text-2xl font-bold text-purple-400">
@@ -122,7 +110,7 @@ const MatchDetails = ({ match }) => {
         <div>
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-4">
             <h3 className="text-xl font-semibold text-white">Final Sıralaması</h3>
-            
+
             {/* Search Bar */}
             <div className="relative">
               <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
@@ -150,7 +138,7 @@ const MatchDetails = ({ match }) => {
               )}
             </div>
           </div>
-          
+
           <div className="space-y-2 max-h-96 overflow-y-auto">
             {filteredStandings.length === 0 ? (
               <div className="text-center py-8">
@@ -206,12 +194,6 @@ const MatchDetails = ({ match }) => {
                         <p className="text-red-400 font-semibold">{player.eliminations || 0}</p>
                         <p className="text-gray-500">Öldürme</p>
                       </div>
-                      <div className="text-center">
-                        <p className="text-blue-400 font-semibold">
-                          {player.survivedFor?.formatted || 'N/A'}
-                        </p>
-                        <p className="text-gray-500">Yaşadı</p>
-                      </div>
                     </div>
                   </div>
                 );
@@ -248,35 +230,24 @@ const MatchDetails = ({ match }) => {
               </div>
             </div>
 
-            {/* Survival Stats */}
+            {/* First Eliminated */}
             <div className="bg-gray-700/30 rounded-lg p-4">
               <h4 className="text-lg font-semibold text-white mb-3 flex items-center gap-2">
-                <span>⏱️</span>
-                Yaşam İstatistikleri
+                <span>💀</span>
+                İlk Elenen
               </h4>
-              <div className="space-y-3">
-                <div className="flex justify-between">
-                  <span className="text-gray-400">En Uzun Yaşayan:</span>
-                  <span className="text-green-400 font-semibold">
-                    {winner?.survivedFor?.formatted || 'N/A'}
-                  </span>
+              {match.standings?.length > 0 && (
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <PlayerAvatar username={match.standings[match.standings.length - 1]?.username} size="sm" />
+                    <div>
+                      <p className="text-white font-medium">
+                        {match.standings[match.standings.length - 1]?.displayName || match.standings[match.standings.length - 1]?.username}
+                      </p>
+                    </div>
+                  </div>
                 </div>
-                <div className="flex justify-between">
-                  <span className="text-gray-400">İlk Elenen:</span>
-                  <span className="text-red-400 font-semibold">
-                    {match.standings?.[match.standings.length - 1]?.survivedFor?.formatted || 'N/A'}
-                  </span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-gray-400">Ortalama Yaşam:</span>
-                  <span className="text-blue-400 font-semibold">
-                    {match.standings?.length > 0
-                      ? `${Math.round(match.standings.reduce((sum, p) => sum + (p.survivedFor?.totalSeconds || 0), 0) / match.standings.length)}s`
-                      : 'N/A'
-                    }
-                  </span>
-                </div>
-              </div>
+              )}
             </div>
           </div>
         </div>

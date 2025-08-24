@@ -1,10 +1,4 @@
-# Instagram Takip Etme Oyunu - Maç Geçmişi
-
-Turkish match history viewer for Instagram Following Game results.
-
-## 🚀 Live Demo
-
-Visit the live app: [https://your-username.github.io/takipciler.oynuyor/results/](https://your-username.github.io/takipciler.oynuyor/results/)
+# takipciler.oynuyor - Maç Geçmişi
 
 ## ✨ Features
 
@@ -18,7 +12,7 @@ Visit the live app: [https://your-username.github.io/takipciler.oynuyor/results/
 ## 🛠️ Development
 
 ### Prerequisites
-- Node.js 18+
+- Node.js 20+
 - npm
 
 ### Installation
