@@ -1,0 +1,7166 @@
+{
+  "matchId": "match_1756026946479_3pqzh3",
+  "timestamp": "2025-08-24T09:15:46.479Z",
+  "date": "24.08.2025",
+  "time": "12:15:46",
+  "totalPlayers": 545,
+  "standings": [
+    {
+      "position": 1,
+      "username": "firatyildirim_3065",
+      "displayName": "firatyildirim_3065",
+      "eliminations": 3,
+      "timeOfDeath": null
+    },
+    {
+      "position": 3,
+      "username": "lunavehaydar",
+      "displayName": "lunavehaydar",
+      "eliminations": 5,
+      "timeOfDeath": 1756027014623,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:54",
+        "elapsedTime": "1:08",
+        "elapsedSeconds": 68
+      },
+      "eliminatedBy": "firatyildirim_3065"
+    },
+    {
+      "position": 4,
+      "username": "nefsu.l",
+      "displayName": "nefsu.l",
+      "eliminations": 4,
+      "timeOfDeath": 1756026994483,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:34",
+        "elapsedTime": "0:48",
+        "elapsedSeconds": 48
+      },
+      "eliminatedBy": "firatyildirim_3065"
+    },
+    {
+      "position": 5,
+      "username": "swony_id",
+      "displayName": "swony_id",
+      "eliminations": 2,
+      "timeOfDeath": 1756026987707,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:27",
+        "elapsedTime": "0:41",
+        "elapsedSeconds": 41
+      },
+      "eliminatedBy": "nefsu.l"
+    },
+    {
+      "position": 6,
+      "username": "yigitt_9_",
+      "displayName": "yigitt_9_",
+      "eliminations": 4,
+      "timeOfDeath": 1756026982440,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:22",
+        "elapsedTime": "0:35",
+        "elapsedSeconds": 35
+      },
+      "eliminatedBy": "lunavehaydar"
+    },
+    {
+      "position": 7,
+      "username": "berzan_demirhan",
+      "displayName": "berzan_demirhan",
+      "eliminations": 3,
+      "timeOfDeath": 1756026980848,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:20",
+        "elapsedTime": "0:34",
+        "elapsedSeconds": 34
+      },
+      "eliminatedBy": "swony_id"
+    },
+    {
+      "position": 8,
+      "username": "mamoball_simsekmcquenn",
+      "displayName": "mamoball_simsekmcquenn",
+      "eliminations": 6,
+      "timeOfDeath": 1756026976947,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:16",
+        "elapsedTime": "0:30",
+        "elapsedSeconds": 30
+      },
+      "eliminatedBy": "yigitt_9_"
+    },
+    {
+      "position": 9,
+      "username": "hvho0011",
+      "displayName": "hvho0011",
+      "eliminations": 7,
+      "timeOfDeath": 1756026975705,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:15",
+        "elapsedTime": "0:29",
+        "elapsedSeconds": 29
+      },
+      "eliminatedBy": "nefsu.l"
+    },
+    {
+      "position": 10,
+      "username": "connel_contrax",
+      "displayName": "connel_contrax",
+      "eliminations": 2,
+      "timeOfDeath": 1756026972888,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:12",
+        "elapsedTime": "0:26",
+        "elapsedSeconds": 26
+      },
+      "eliminatedBy": "mamoball_simsekmcquenn"
+    },
+    {
+      "position": 11,
+      "username": "yaserblgsvn",
+      "displayName": "yaserblgsvn",
+      "eliminations": 2,
+      "timeOfDeath": 1756026972497,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:12",
+        "elapsedTime": "0:26",
+        "elapsedSeconds": 26
+      },
+      "eliminatedBy": "hvho0011"
+    },
+    {
+      "position": 12,
+      "username": "nfeeo34ytb",
+      "displayName": "nfeeo34ytb",
+      "eliminations": 3,
+      "timeOfDeath": 1756026970405,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:10",
+        "elapsedTime": "0:23",
+        "elapsedSeconds": 23
+      },
+      "eliminatedBy": "mamoball_simsekmcquenn"
+    },
+    {
+      "position": 13,
+      "username": "ferzansilvan",
+      "displayName": "ferzansilvan",
+      "eliminations": 3,
+      "timeOfDeath": 1756026968888,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:08",
+        "elapsedTime": "0:22",
+        "elapsedSeconds": 22
+      },
+      "eliminatedBy": "metebicerrrr"
+    },
+    {
+      "position": 14,
+      "username": "metebicerrrr",
+      "displayName": "metebicerrrr",
+      "eliminations": 2,
+      "timeOfDeath": 1756026968888,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:08",
+        "elapsedTime": "0:22",
+        "elapsedSeconds": 22
+      },
+      "eliminatedBy": "ferzansilvan"
+    },
+    {
+      "position": 15,
+      "username": "sselim_54",
+      "displayName": "sselim_54",
+      "eliminations": 0,
+      "timeOfDeath": 1756026967592,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:07",
+        "elapsedTime": "0:21",
+        "elapsedSeconds": 21
+      },
+      "eliminatedBy": "nfeeo34ytb"
+    },
+    {
+      "position": 16,
+      "username": "huda_ctn",
+      "displayName": "huda_ctn",
+      "eliminations": 2,
+      "timeOfDeath": 1756026967554,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:07",
+        "elapsedTime": "0:21",
+        "elapsedSeconds": 21
+      },
+      "eliminatedBy": "berzan_demirhan"
+    },
+    {
+      "position": 17,
+      "username": "ahmetemir_yasar52",
+      "displayName": "ahmetemir_yasar52",
+      "eliminations": 4,
+      "timeOfDeath": 1756026967409,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:07",
+        "elapsedTime": "0:20",
+        "elapsedSeconds": 20
+      },
+      "eliminatedBy": "mamoball_simsekmcquenn"
+    },
+    {
+      "position": 18,
+      "username": "ibrahim_10rafa_leao",
+      "displayName": "ibrahim_10rafa_leao",
+      "eliminations": 4,
+      "timeOfDeath": 1756026967054,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:07",
+        "elapsedTime": "0:20",
+        "elapsedSeconds": 20
+      },
+      "eliminatedBy": "swony_id"
+    },
+    {
+      "position": 19,
+      "username": "ak.ifkerem",
+      "displayName": "ak.ifkerem",
+      "eliminations": 2,
+      "timeOfDeath": 1756026966588,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:06",
+        "elapsedTime": "0:20",
+        "elapsedSeconds": 20
+      },
+      "eliminatedBy": "ferzansilvan"
+    },
+    {
+      "position": 20,
+      "username": "mert_ali3121",
+      "displayName": "mert_ali3121",
+      "eliminations": 2,
+      "timeOfDeath": 1756026964900,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:04",
+        "elapsedTime": "0:18",
+        "elapsedSeconds": 18
+      },
+      "eliminatedBy": "mamoball_simsekmcquenn"
+    },
+    {
+      "position": 21,
+      "username": "barancan_ozalp",
+      "displayName": "barancan_ozalp",
+      "eliminations": 3,
+      "timeOfDeath": 1756026964204,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:04",
+        "elapsedTime": "0:17",
+        "elapsedSeconds": 17
+      },
+      "eliminatedBy": "ahmetemir_yasar52"
+    },
+    {
+      "position": 22,
+      "username": "yagan_src",
+      "displayName": "yagan_src",
+      "eliminations": 3,
+      "timeOfDeath": 1756026964058,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:04",
+        "elapsedTime": "0:17",
+        "elapsedSeconds": 17
+      },
+      "eliminatedBy": "barancan_ozalp"
+    },
+    {
+      "position": 23,
+      "username": "muhammed_kocer15",
+      "displayName": "muhammed_kocer15",
+      "eliminations": 4,
+      "timeOfDeath": 1756026962658,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:02",
+        "elapsedTime": "0:16",
+        "elapsedSeconds": 16
+      },
+      "eliminatedBy": "barancan_ozalp"
+    },
+    {
+      "position": 24,
+      "username": "heeeeu01",
+      "displayName": "heeeeu01",
+      "eliminations": 3,
+      "timeOfDeath": 1756026962195,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:02",
+        "elapsedTime": "0:15",
+        "elapsedSeconds": 15
+      },
+      "eliminatedBy": "ibrahim_10rafa_leao"
+    },
+    {
+      "position": 25,
+      "username": "_burakdnr9",
+      "displayName": "_burakdnr9",
+      "eliminations": 5,
+      "timeOfDeath": 1756026961716,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:01",
+        "elapsedTime": "0:15",
+        "elapsedSeconds": 15
+      },
+      "eliminatedBy": "alperenms"
+    },
+    {
+      "position": 26,
+      "username": "alperenms",
+      "displayName": "alperenms",
+      "eliminations": 4,
+      "timeOfDeath": 1756026961716,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:01",
+        "elapsedTime": "0:15",
+        "elapsedSeconds": 15
+      },
+      "eliminatedBy": "_burakdnr9"
+    },
+    {
+      "position": 27,
+      "username": "eness8191",
+      "displayName": "eness8191",
+      "eliminations": 1,
+      "timeOfDeath": 1756026961575,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:01",
+        "elapsedTime": "0:15",
+        "elapsedSeconds": 15
+      },
+      "eliminatedBy": "ak.ifkerem"
+    },
+    {
+      "position": 28,
+      "username": "a.zkryx",
+      "displayName": "a.zkryx",
+      "eliminations": 2,
+      "timeOfDeath": 1756026961204,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:01",
+        "elapsedTime": "0:14",
+        "elapsedSeconds": 14
+      },
+      "eliminatedBy": "yigitt_9_"
+    },
+    {
+      "position": 29,
+      "username": "73_adn",
+      "displayName": "73_adn",
+      "eliminations": 3,
+      "timeOfDeath": 1756026961170,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:01",
+        "elapsedTime": "0:14",
+        "elapsedSeconds": 14
+      },
+      "eliminatedBy": "barancan_ozalp"
+    },
+    {
+      "position": 30,
+      "username": "ahmet_efe_ylmz06",
+      "displayName": "ahmet_efe_ylmz06",
+      "eliminations": 3,
+      "timeOfDeath": 1756026960904,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:00",
+        "elapsedTime": "0:14",
+        "elapsedSeconds": 14
+      },
+      "eliminatedBy": "mert_ali3121"
+    },
+    {
+      "position": 31,
+      "username": "leo_oamvq",
+      "displayName": "leo_oamvq",
+      "eliminations": 1,
+      "timeOfDeath": 1756026960845,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:00",
+        "elapsedTime": "0:14",
+        "elapsedSeconds": 14
+      },
+      "eliminatedBy": "mert_ali3121"
+    },
+    {
+      "position": 32,
+      "username": "miracsz11",
+      "displayName": "miracsz11",
+      "eliminations": 5,
+      "timeOfDeath": 1756026960758,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:00",
+        "elapsedTime": "0:14",
+        "elapsedSeconds": 14
+      },
+      "eliminatedBy": "unal_utku05"
+    },
+    {
+      "position": 33,
+      "username": "unal_utku05",
+      "displayName": "unal_utku05",
+      "eliminations": 2,
+      "timeOfDeath": 1756026960758,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:00",
+        "elapsedTime": "0:14",
+        "elapsedSeconds": 14
+      },
+      "eliminatedBy": "miracsz11"
+    },
+    {
+      "position": 34,
+      "username": "ben_aq_la",
+      "displayName": "ben_aq_la",
+      "eliminations": 0,
+      "timeOfDeath": 1756026960733,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:00",
+        "elapsedTime": "0:14",
+        "elapsedSeconds": 14
+      },
+      "eliminatedBy": "huda_ctn"
+    },
+    {
+      "position": 35,
+      "username": "berkay._x01",
+      "displayName": "berkay._x01",
+      "eliminations": 0,
+      "timeOfDeath": 1756026960579,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:00",
+        "elapsedTime": "0:14",
+        "elapsedSeconds": 14
+      },
+      "eliminatedBy": "73_adn"
+    },
+    {
+      "position": 36,
+      "username": "yasar.ali_official",
+      "displayName": "yasar.ali_official",
+      "eliminations": 2,
+      "timeOfDeath": 1756026960516,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:00",
+        "elapsedTime": "0:14",
+        "elapsedSeconds": 14
+      },
+      "eliminatedBy": "a.zkryx"
+    },
+    {
+      "position": 37,
+      "username": "emirwf.1",
+      "displayName": "emirwf.1",
+      "eliminations": 1,
+      "timeOfDeath": 1756026960454,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:00",
+        "elapsedTime": "0:13",
+        "elapsedSeconds": 13
+      },
+      "eliminatedBy": "minecraftkral_13"
+    },
+    {
+      "position": 38,
+      "username": "minecraftkral_13",
+      "displayName": "minecraftkral_13",
+      "eliminations": 1,
+      "timeOfDeath": 1756026960454,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:00",
+        "elapsedTime": "0:13",
+        "elapsedSeconds": 13
+      },
+      "eliminatedBy": "emirwf.1"
+    },
+    {
+      "position": 39,
+      "username": "ugur_kyya_",
+      "displayName": "ugur_kyya_",
+      "eliminations": 1,
+      "timeOfDeath": 1756026960237,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:16:00",
+        "elapsedTime": "0:13",
+        "elapsedSeconds": 13
+      },
+      "eliminatedBy": "huda_ctn"
+    },
+    {
+      "position": 40,
+      "username": "asilbf1",
+      "displayName": "asilbf1",
+      "eliminations": 2,
+      "timeOfDeath": 1756026959520,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:59",
+        "elapsedTime": "0:13",
+        "elapsedSeconds": 13
+      },
+      "eliminatedBy": "nfeeo34ytb"
+    },
+    {
+      "position": 41,
+      "username": "emirtalhayuce",
+      "displayName": "emirtalhayuce",
+      "eliminations": 1,
+      "timeOfDeath": 1756026959412,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:59",
+        "elapsedTime": "0:12",
+        "elapsedSeconds": 12
+      },
+      "eliminatedBy": "73_adn"
+    },
+    {
+      "position": 42,
+      "username": "t.harun7",
+      "displayName": "t.harun7",
+      "eliminations": 1,
+      "timeOfDeath": 1756026959087,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:59",
+        "elapsedTime": "0:12",
+        "elapsedSeconds": 12
+      },
+      "eliminatedBy": "yusuf_gs4612"
+    },
+    {
+      "position": 43,
+      "username": "yusuf_gs4612",
+      "displayName": "yusuf_gs4612",
+      "eliminations": 4,
+      "timeOfDeath": 1756026959087,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:59",
+        "elapsedTime": "0:12",
+        "elapsedSeconds": 12
+      },
+      "eliminatedBy": "t.harun7"
+    },
+    {
+      "position": 44,
+      "username": "s2g.orcun",
+      "displayName": "s2g.orcun",
+      "eliminations": 2,
+      "timeOfDeath": 1756026958949,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:58",
+        "elapsedTime": "0:12",
+        "elapsedSeconds": 12
+      },
+      "eliminatedBy": "ahmet_efe_ylmz06"
+    },
+    {
+      "position": 45,
+      "username": "bomba_1725",
+      "displayName": "bomba_1725",
+      "eliminations": 1,
+      "timeOfDeath": 1756026958766,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:58",
+        "elapsedTime": "0:12",
+        "elapsedSeconds": 12
+      },
+      "eliminatedBy": "nefsu.l"
+    },
+    {
+      "position": 46,
+      "username": "xfloxsy",
+      "displayName": "xfloxsy",
+      "eliminations": 1,
+      "timeOfDeath": 1756026958741,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:58",
+        "elapsedTime": "0:12",
+        "elapsedSeconds": 12
+      },
+      "eliminatedBy": "connel_contrax"
+    },
+    {
+      "position": 47,
+      "username": "wkaanxw",
+      "displayName": "wkaanxw",
+      "eliminations": 1,
+      "timeOfDeath": 1756026958295,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:58",
+        "elapsedTime": "0:11",
+        "elapsedSeconds": 11
+      },
+      "eliminatedBy": "emirtalhayuce"
+    },
+    {
+      "position": 48,
+      "username": "kerrmayzz",
+      "displayName": "kerrmayzz",
+      "eliminations": 1,
+      "timeOfDeath": 1756026958195,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:58",
+        "elapsedTime": "0:11",
+        "elapsedSeconds": 11
+      },
+      "eliminatedBy": "mamoball_simsekmcquenn"
+    },
+    {
+      "position": 49,
+      "username": "aizen0560",
+      "displayName": "aizen0560",
+      "eliminations": 6,
+      "timeOfDeath": 1756026958132,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:58",
+        "elapsedTime": "0:11",
+        "elapsedSeconds": 11
+      },
+      "eliminatedBy": "ibrahim_10rafa_leao"
+    },
+    {
+      "position": 50,
+      "username": "orcun_cakir39",
+      "displayName": "orcun_cakir39",
+      "eliminations": 4,
+      "timeOfDeath": 1756026957870,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:57",
+        "elapsedTime": "0:11",
+        "elapsedSeconds": 11
+      },
+      "eliminatedBy": "pixarmcquenn"
+    },
+    {
+      "position": 51,
+      "username": "pixarmcquenn",
+      "displayName": "pixarmcquenn",
+      "eliminations": 2,
+      "timeOfDeath": 1756026957870,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:57",
+        "elapsedTime": "0:11",
+        "elapsedSeconds": 11
+      },
+      "eliminatedBy": "orcun_cakir39"
+    },
+    {
+      "position": 52,
+      "username": "alpvuralgs",
+      "displayName": "alpvuralgs",
+      "eliminations": 2,
+      "timeOfDeath": 1756026957720,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:57",
+        "elapsedTime": "0:11",
+        "elapsedSeconds": 11
+      },
+      "eliminatedBy": "bomba_1725"
+    },
+    {
+      "position": 53,
+      "username": "atagurses2507",
+      "displayName": "atagurses2507",
+      "eliminations": 3,
+      "timeOfDeath": 1756026957524,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:57",
+        "elapsedTime": "0:11",
+        "elapsedSeconds": 11
+      },
+      "eliminatedBy": "unal_utku05"
+    },
+    {
+      "position": 54,
+      "username": "c_kocogluu",
+      "displayName": "c_kocogluu",
+      "eliminations": 4,
+      "timeOfDeath": 1756026957382,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:57",
+        "elapsedTime": "0:10",
+        "elapsedSeconds": 10
+      },
+      "eliminatedBy": "ak.ifkerem"
+    },
+    {
+      "position": 55,
+      "username": "barissbyg",
+      "displayName": "barissbyg",
+      "eliminations": 3,
+      "timeOfDeath": 1756026957286,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:57",
+        "elapsedTime": "0:10",
+        "elapsedSeconds": 10
+      },
+      "eliminatedBy": "atagurses2507"
+    },
+    {
+      "position": 56,
+      "username": "huseyincinarkoksal",
+      "displayName": "huseyincinarkoksal",
+      "eliminations": 1,
+      "timeOfDeath": 1756026957124,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:57",
+        "elapsedTime": "0:10",
+        "elapsedSeconds": 10
+      },
+      "eliminatedBy": "_burakdnr9"
+    },
+    {
+      "position": 57,
+      "username": "dyb_pubgg",
+      "displayName": "dyb_pubgg",
+      "eliminations": 2,
+      "timeOfDeath": 1756026957103,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:57",
+        "elapsedTime": "0:10",
+        "elapsedSeconds": 10
+      },
+      "eliminatedBy": "miracsz11"
+    },
+    {
+      "position": 58,
+      "username": "blackanniss",
+      "displayName": "blackanniss",
+      "eliminations": 0,
+      "timeOfDeath": 1756026956791,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:10",
+        "elapsedSeconds": 10
+      },
+      "eliminatedBy": "dyb_pubgg"
+    },
+    {
+      "position": 59,
+      "username": "yoshikage_kira.st.1",
+      "displayName": "yoshikage_kira.st.1",
+      "eliminations": 3,
+      "timeOfDeath": 1756026956711,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:10",
+        "elapsedSeconds": 10
+      },
+      "eliminatedBy": "ahmetemir_yasar52"
+    },
+    {
+      "position": 60,
+      "username": "xyuceer7",
+      "displayName": "xyuceer7",
+      "eliminations": 0,
+      "timeOfDeath": 1756026956690,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:10",
+        "elapsedSeconds": 10
+      },
+      "eliminatedBy": "yusuf_gs4612"
+    },
+    {
+      "position": 61,
+      "username": "ronaldomessineymarhaland",
+      "displayName": "ronaldomessineymarhaland",
+      "eliminations": 2,
+      "timeOfDeath": 1756026956611,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:10",
+        "elapsedSeconds": 10
+      },
+      "eliminatedBy": "orcun_cakir39"
+    },
+    {
+      "position": 62,
+      "username": "alperen551903",
+      "displayName": "alperen551903",
+      "eliminations": 1,
+      "timeOfDeath": 1756026956603,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:10",
+        "elapsedSeconds": 10
+      },
+      "eliminatedBy": "c_kocogluu"
+    },
+    {
+      "position": 63,
+      "username": "llalikarall",
+      "displayName": "llalikarall",
+      "eliminations": 2,
+      "timeOfDeath": 1756026956490,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:10",
+        "elapsedSeconds": 10
+      },
+      "eliminatedBy": "asilbf1"
+    },
+    {
+      "position": 64,
+      "username": "berkay_can600",
+      "displayName": "berkay_can600",
+      "eliminations": 1,
+      "timeOfDeath": 1756026956465,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "73_adn"
+    },
+    {
+      "position": 65,
+      "username": "twindubstorm",
+      "displayName": "twindubstorm",
+      "eliminations": 1,
+      "timeOfDeath": 1756026956395,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "xfloxsy"
+    },
+    {
+      "position": 66,
+      "username": "20.efekan_tosun",
+      "displayName": "20.efekan_tosun",
+      "eliminations": 0,
+      "timeOfDeath": 1756026956324,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "barissbyg"
+    },
+    {
+      "position": 66,
+      "username": "erikerin_",
+      "displayName": "erikerin_",
+      "eliminations": 4,
+      "timeOfDeath": 1756026956241,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "c_kocogluu"
+    },
+    {
+      "position": 67,
+      "username": "erikerin_",
+      "displayName": "erikerin_",
+      "eliminations": 4,
+      "timeOfDeath": 1756026956241,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "llalikarall"
+    },
+    {
+      "position": 68,
+      "username": "xq_ahmet_can16",
+      "displayName": "xq_ahmet_can16",
+      "eliminations": 3,
+      "timeOfDeath": 1756026956211,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "yagan_src"
+    },
+    {
+      "position": 69,
+      "username": "zklis8",
+      "displayName": "zklis8",
+      "eliminations": 1,
+      "timeOfDeath": 1756026956099,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "barissbyg"
+    },
+    {
+      "position": 70,
+      "username": "mamoball_doue",
+      "displayName": "mamoball_doue",
+      "eliminations": 3,
+      "timeOfDeath": 1756026956070,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "umutkagangultepe"
+    },
+    {
+      "position": 71,
+      "username": "umutkagangultepe",
+      "displayName": "umutkagangultepe",
+      "eliminations": 4,
+      "timeOfDeath": 1756026956070,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:56",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "mamoball_doue"
+    },
+    {
+      "position": 72,
+      "username": "kaosblack1",
+      "displayName": "kaosblack1",
+      "eliminations": 2,
+      "timeOfDeath": 1756026955874,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "aizen0560"
+    },
+    {
+      "position": 73,
+      "username": "kuzey_can_saracogluu",
+      "displayName": "kuzey_can_saracogluu",
+      "eliminations": 1,
+      "timeOfDeath": 1756026955840,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "umutkagangultepe"
+    },
+    {
+      "position": 74,
+      "username": "s.a.l.i.55",
+      "displayName": "s.a.l.i.55",
+      "eliminations": 2,
+      "timeOfDeath": 1756026955811,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:09",
+        "elapsedSeconds": 9
+      },
+      "eliminatedBy": "alpvuralgs"
+    },
+    {
+      "position": 75,
+      "username": "eyme_n9972",
+      "displayName": "eyme_n9972",
+      "eliminations": 3,
+      "timeOfDeath": 1756026955428,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "ferzansilvan"
+    },
+    {
+      "position": 76,
+      "username": "musa_mertt1",
+      "displayName": "musa_mertt1",
+      "eliminations": 2,
+      "timeOfDeath": 1756026955424,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "metebicerrrr"
+    },
+    {
+      "position": 77,
+      "username": "eymenmercanwp",
+      "displayName": "eymenmercanwp",
+      "eliminations": 0,
+      "timeOfDeath": 1756026955411,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "s.a.l.i.55"
+    },
+    {
+      "position": 78,
+      "username": "adnan_sen214",
+      "displayName": "adnan_sen214",
+      "eliminations": 3,
+      "timeOfDeath": 1756026955370,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "ahmetemir_yasar52"
+    },
+    {
+      "position": 79,
+      "username": "ilkerosdemiros",
+      "displayName": "ilkerosdemiros",
+      "eliminations": 1,
+      "timeOfDeath": 1756026955357,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "musa_mertt1"
+    },
+    {
+      "position": 80,
+      "username": "adem1_ege",
+      "displayName": "adem1_ege",
+      "eliminations": 5,
+      "timeOfDeath": 1756026955282,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "erikerin_"
+    },
+    {
+      "position": 81,
+      "username": "alperen_4564",
+      "displayName": "alperen_4564",
+      "eliminations": 1,
+      "timeOfDeath": 1756026955249,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "ahmet_efe_ylmz06"
+    },
+    {
+      "position": 82,
+      "username": "football_edits644",
+      "displayName": "football_edits644",
+      "eliminations": 1,
+      "timeOfDeath": 1756026955232,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "atagurses2507"
+    },
+    {
+      "position": 83,
+      "username": "alim_ay_1",
+      "displayName": "alim_ay_1",
+      "eliminations": 3,
+      "timeOfDeath": 1756026955219,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "hvho0011"
+    },
+    {
+      "position": 84,
+      "username": "mehmet_omerxtr",
+      "displayName": "mehmet_omerxtr",
+      "eliminations": 2,
+      "timeOfDeath": 1756026955190,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "berzan_demirhan"
+    },
+    {
+      "position": 85,
+      "username": "alper_sw1",
+      "displayName": "alper_sw1",
+      "eliminations": 4,
+      "timeOfDeath": 1756026955161,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "aizen0560"
+    },
+    {
+      "position": 86,
+      "username": "memoli_fc1905",
+      "displayName": "memoli_fc1905",
+      "eliminations": 2,
+      "timeOfDeath": 1756026955086,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "yoshikage_kira.st.1"
+    },
+    {
+      "position": 87,
+      "username": "denizaliiaaaa",
+      "displayName": "denizaliiaaaa",
+      "eliminations": 3,
+      "timeOfDeath": 1756026955044,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "onurrxw_0"
+    },
+    {
+      "position": 88,
+      "username": "onurrxw_0",
+      "displayName": "onurrxw_0",
+      "eliminations": 1,
+      "timeOfDeath": 1756026955044,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:55",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "denizaliiaaaa"
+    },
+    {
+      "position": 89,
+      "username": "yusmos7",
+      "displayName": "yusmos7",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954966,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "sultanselimhan_priiiw"
+    },
+    {
+      "position": 90,
+      "username": "sultanselimhan_priiiw",
+      "displayName": "sultanselimhan_priiiw",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954966,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "yusmos7"
+    },
+    {
+      "position": 91,
+      "username": "mehmetcan.akcy.5007",
+      "displayName": "mehmetcan.akcy.5007",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954945,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "miracsz11"
+    },
+    {
+      "position": 92,
+      "username": "kiwicandir",
+      "displayName": "kiwicandir",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954911,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "berzan_demirhan"
+    },
+    {
+      "position": 93,
+      "username": "messi_aswoo",
+      "displayName": "messi_aswoo",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954907,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "atagurses2507"
+    },
+    {
+      "position": 94,
+      "username": "arda_guler_daily",
+      "displayName": "arda_guler_daily",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954886,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "eness8191"
+    },
+    {
+      "position": 95,
+      "username": "35beko35_",
+      "displayName": "35beko35_",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954811,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "alperenms"
+    },
+    {
+      "position": 96,
+      "username": "busrapeksoz",
+      "displayName": "busrapeksoz",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954757,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "heeeeu01"
+    },
+    {
+      "position": 97,
+      "username": "creampiecc",
+      "displayName": "creampiecc",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954740,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "s2g.orcun"
+    },
+    {
+      "position": 98,
+      "username": "rafa_rejma72.1727",
+      "displayName": "rafa_rejma72.1727",
+      "eliminations": 4,
+      "timeOfDeath": 1756026954707,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "mehmet_omerxtr"
+    },
+    {
+      "position": 99,
+      "username": "baran6_5",
+      "displayName": "baran6_5",
+      "eliminations": 2,
+      "timeOfDeath": 1756026954690,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "ronaldomessineymarhaland"
+    },
+    {
+      "position": 100,
+      "username": "mrhuston0",
+      "displayName": "mrhuston0",
+      "eliminations": 2,
+      "timeOfDeath": 1756026954657,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "c_kocogluu"
+    },
+    {
+      "position": 101,
+      "username": "kralxpro2013",
+      "displayName": "kralxpro2013",
+      "eliminations": 2,
+      "timeOfDeath": 1756026954619,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "adem1_ege"
+    },
+    {
+      "position": 102,
+      "username": "zayif.alperen",
+      "displayName": "zayif.alperen",
+      "eliminations": 4,
+      "timeOfDeath": 1756026954611,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "kaosblack1"
+    },
+    {
+      "position": 103,
+      "username": "gereksiz_post15",
+      "displayName": "gereksiz_post15",
+      "eliminations": 4,
+      "timeOfDeath": 1756026954582,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "alperenms"
+    },
+    {
+      "position": 104,
+      "username": "patateskingo",
+      "displayName": "patateskingo",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954540,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "erikerin_"
+    },
+    {
+      "position": 105,
+      "username": "fikret_bora_ylmz",
+      "displayName": "fikret_bora_ylmz",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954507,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "alim_ay_1"
+    },
+    {
+      "position": 106,
+      "username": "ali_asus11",
+      "displayName": "ali_asus11",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954482,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:08",
+        "elapsedSeconds": 8
+      },
+      "eliminatedBy": "adnan_sen214"
+    },
+    {
+      "position": 107,
+      "username": "sigma_sigara_official",
+      "displayName": "sigma_sigara_official",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954469,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "asaf_tugra_ugur"
+    },
+    {
+      "position": 108,
+      "username": "asaf_tugra_ugur",
+      "displayName": "asaf_tugra_ugur",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954469,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "sigma_sigara_official"
+    },
+    {
+      "position": 109,
+      "username": "cicekenes027",
+      "displayName": "cicekenes027",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954457,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "lunavehaydar"
+    },
+    {
+      "position": 110,
+      "username": "mirodorrukunlu",
+      "displayName": "mirodorrukunlu",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954449,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "heeeeu01"
+    },
+    {
+      "position": 111,
+      "username": "uguz.aytug",
+      "displayName": "uguz.aytug",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954436,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "orcun_cakir39"
+    },
+    {
+      "position": 112,
+      "username": "sigma_patates55",
+      "displayName": "sigma_patates55",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954415,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "erikerin_"
+    },
+    {
+      "position": 113,
+      "username": "sameturgull",
+      "displayName": "sameturgull",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954369,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "baran6_5"
+    },
+    {
+      "position": 114,
+      "username": "ozgurum44",
+      "displayName": "ozgurum44",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954361,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "mamoball_doue"
+    },
+    {
+      "position": 115,
+      "username": "zurna_durum12382",
+      "displayName": "zurna_durum12382",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954361,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "recepwhite1"
+    },
+    {
+      "position": 116,
+      "username": "recepwhite1",
+      "displayName": "recepwhite1",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954361,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "zurna_durum12382"
+    },
+    {
+      "position": 117,
+      "username": "bycolonel",
+      "displayName": "bycolonel",
+      "eliminations": 2,
+      "timeOfDeath": 1756026954341,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "yusuf_gs4612"
+    },
+    {
+      "position": 118,
+      "username": "trfierro",
+      "displayName": "trfierro",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954336,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "gereksiz_post15"
+    },
+    {
+      "position": 119,
+      "username": "alman19yatarihci45",
+      "displayName": "alman19yatarihci45",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954294,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "sigma_sigara_official"
+    },
+    {
+      "position": 120,
+      "username": "johanliberts",
+      "displayName": "johanliberts",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954236,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "ahmet_efe_ylmz06"
+    },
+    {
+      "position": 121,
+      "username": "kuzeyfener",
+      "displayName": "kuzeyfener",
+      "eliminations": 4,
+      "timeOfDeath": 1756026954236,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "huseyincinarkoksal"
+    },
+    {
+      "position": 122,
+      "username": "13arexezew12",
+      "displayName": "13arexezew12",
+      "eliminations": 2,
+      "timeOfDeath": 1756026954207,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "ronaldomessineymarhaland"
+    },
+    {
+      "position": 123,
+      "username": "dorrrrujkm",
+      "displayName": "dorrrrujkm",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954203,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "yusmos7"
+    },
+    {
+      "position": 124,
+      "username": "efewselry2",
+      "displayName": "efewselry2",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954190,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "asaf_tugra_ugur"
+    },
+    {
+      "position": 125,
+      "username": "bozkurtemre160",
+      "displayName": "bozkurtemre160",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954170,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "_burakdnr9"
+    },
+    {
+      "position": 126,
+      "username": "eymenkahya",
+      "displayName": "eymenkahya",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954165,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "recepwhite1"
+    },
+    {
+      "position": 127,
+      "username": "arinferhann",
+      "displayName": "arinferhann",
+      "eliminations": 2,
+      "timeOfDeath": 1756026954153,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "aizen0560"
+    },
+    {
+      "position": 128,
+      "username": "m.talha_",
+      "displayName": "m.talha_",
+      "eliminations": 3,
+      "timeOfDeath": 1756026954144,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "eyme_n9972"
+    },
+    {
+      "position": 129,
+      "username": "incisruby",
+      "displayName": "incisruby",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954111,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "denizaliiaaaa"
+    },
+    {
+      "position": 130,
+      "username": "emir25.16",
+      "displayName": "emir25.16",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954065,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "umutkagangultepe"
+    },
+    {
+      "position": 131,
+      "username": "talha135956",
+      "displayName": "talha135956",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954057,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "wkaanxw"
+    },
+    {
+      "position": 132,
+      "username": "kadiryilmaz3533",
+      "displayName": "kadiryilmaz3533",
+      "eliminations": 2,
+      "timeOfDeath": 1756026954028,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "lbatuhan2022"
+    },
+    {
+      "position": 133,
+      "username": "lbatuhan2022",
+      "displayName": "lbatuhan2022",
+      "eliminations": 1,
+      "timeOfDeath": 1756026954028,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "kadiryilmaz3533"
+    },
+    {
+      "position": 134,
+      "username": "emin.ox.q7",
+      "displayName": "emin.ox.q7",
+      "eliminations": 0,
+      "timeOfDeath": 1756026954007,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:54",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "rafa_rejma72.1727"
+    },
+    {
+      "position": 135,
+      "username": "agit_rezan_7247",
+      "displayName": "agit_rezan_7247",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953986,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "arda_guler_daily"
+    },
+    {
+      "position": 136,
+      "username": "bs_jk1903",
+      "displayName": "bs_jk1903",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953944,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "fikret_bora_ylmz"
+    },
+    {
+      "position": 137,
+      "username": "omerasaf_ak100",
+      "displayName": "omerasaf_ak100",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953919,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "adem1_ege"
+    },
+    {
+      "position": 138,
+      "username": "atahannsenturk",
+      "displayName": "atahannsenturk",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953919,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "mrhuston0"
+    },
+    {
+      "position": 139,
+      "username": "realzer0me",
+      "displayName": "realzer0me",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953911,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "adnan_sen214"
+    },
+    {
+      "position": 140,
+      "username": "gemer_ben1",
+      "displayName": "gemer_ben1",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953869,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "a.zkryx"
+    },
+    {
+      "position": 141,
+      "username": "seyit_baba_06",
+      "displayName": "seyit_baba_06",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953844,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "arinferhann"
+    },
+    {
+      "position": 142,
+      "username": "19.doruk_solmz.12",
+      "displayName": "19.doruk_solmz.12",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953823,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "duran_yrar"
+    },
+    {
+      "position": 143,
+      "username": "duran_yrar",
+      "displayName": "duran_yrar",
+      "eliminations": 4,
+      "timeOfDeath": 1756026953823,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "19.doruk_solmz.12"
+    },
+    {
+      "position": 144,
+      "username": "justmetumun",
+      "displayName": "justmetumun",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953807,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "s2g.orcun"
+    },
+    {
+      "position": 145,
+      "username": "berat.reiss67",
+      "displayName": "berat.reiss67",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953782,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "ozgurum44"
+    },
+    {
+      "position": 146,
+      "username": "kaiser_benim",
+      "displayName": "kaiser_benim",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953778,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "zayif.alperen"
+    },
+    {
+      "position": 147,
+      "username": "ahmet_dmirkam_demir",
+      "displayName": "ahmet_dmirkam_demir",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953765,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "yasar.ali_official"
+    },
+    {
+      "position": 148,
+      "username": "berat44uzun",
+      "displayName": "berat44uzun",
+      "eliminations": 3,
+      "timeOfDeath": 1756026953765,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "messi_aswoo"
+    },
+    {
+      "position": 149,
+      "username": "codasmer25",
+      "displayName": "codasmer25",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953740,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "asilbf1"
+    },
+    {
+      "position": 150,
+      "username": "jrasxe",
+      "displayName": "jrasxe",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953732,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "ahmet_dmirkam_demir"
+    },
+    {
+      "position": 151,
+      "username": "egeyildirim_10",
+      "displayName": "egeyildirim_10",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953728,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "lunavehaydar"
+    },
+    {
+      "position": 152,
+      "username": "affanahmet1414",
+      "displayName": "affanahmet1414",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953715,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "dyb_pubgg"
+    },
+    {
+      "position": 153,
+      "username": "pingulein_47",
+      "displayName": "pingulein_47",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953694,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "connel_contrax"
+    },
+    {
+      "position": 154,
+      "username": "ahmet40emir4",
+      "displayName": "ahmet40emir4",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953678,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "aizen0560"
+    },
+    {
+      "position": 155,
+      "username": "bkkl_ng",
+      "displayName": "bkkl_ng",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953661,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "kerrmayzz"
+    },
+    {
+      "position": 156,
+      "username": "35harunali",
+      "displayName": "35harunali",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953636,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "bkkl_ng"
+    },
+    {
+      "position": 157,
+      "username": "cihanomerbera_tres",
+      "displayName": "cihanomerbera_tres",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953636,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "nefsu.l"
+    },
+    {
+      "position": 158,
+      "username": "cnar_07a",
+      "displayName": "cnar_07a",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953619,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "leo_oamvq"
+    },
+    {
+      "position": 159,
+      "username": "miyagitu",
+      "displayName": "miyagitu",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953603,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "kivancgul13"
+    },
+    {
+      "position": 160,
+      "username": "kivancgul13",
+      "displayName": "kivancgul13",
+      "eliminations": 3,
+      "timeOfDeath": 1756026953603,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "miyagitu"
+    },
+    {
+      "position": 161,
+      "username": "berosxxq",
+      "displayName": "berosxxq",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953598,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "berat44uzun"
+    },
+    {
+      "position": 162,
+      "username": "eym_ccp",
+      "displayName": "eym_ccp",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953598,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "kaosblack1"
+    },
+    {
+      "position": 163,
+      "username": "shanks18224",
+      "displayName": "shanks18224",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953586,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "umutkagangultepe"
+    },
+    {
+      "position": 164,
+      "username": "enes_trhnn56",
+      "displayName": "enes_trhnn56",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953586,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "yagan_src"
+    },
+    {
+      "position": 165,
+      "username": "ohsitsivas",
+      "displayName": "ohsitsivas",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953586,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "alper_sw1"
+    },
+    {
+      "position": 166,
+      "username": "9eskisehirspor9",
+      "displayName": "9eskisehirspor9",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953586,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "alper_sw1"
+    },
+    {
+      "position": 167,
+      "username": "enes_mungan09073",
+      "displayName": "enes_mungan09073",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953582,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "cihanomerbera_tres"
+    },
+    {
+      "position": 168,
+      "username": "g3bies",
+      "displayName": "g3bies",
+      "eliminations": 3,
+      "timeOfDeath": 1756026953582,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "johanliberts"
+    },
+    {
+      "position": 169,
+      "username": "yusuf_w_tlh",
+      "displayName": "yusuf_w_tlh",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953569,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "19.doruk_solmz.12"
+    },
+    {
+      "position": 170,
+      "username": "azadefeisik",
+      "displayName": "azadefeisik",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953569,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "aizen0560"
+    },
+    {
+      "position": 171,
+      "username": "bronyx.amp",
+      "displayName": "bronyx.amp",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953548,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "g3bies"
+    },
+    {
+      "position": 172,
+      "username": "sayginer.420",
+      "displayName": "sayginer.420",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953528,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "arda_guler_daily"
+    },
+    {
+      "position": 173,
+      "username": "mertemiry443",
+      "displayName": "mertemiry443",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953528,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "ozgurum44"
+    },
+    {
+      "position": 174,
+      "username": "sqarda",
+      "displayName": "sqarda",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953523,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "hazar23akisik"
+    },
+    {
+      "position": 175,
+      "username": "hazar23akisik",
+      "displayName": "hazar23akisik",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953523,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "sqarda"
+    },
+    {
+      "position": 176,
+      "username": "abe_yaw_sari_kola_biti",
+      "displayName": "abe_yaw_sari_kola_biti",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953515,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "zayif.alperen"
+    },
+    {
+      "position": 177,
+      "username": "arcmuhammedberat01",
+      "displayName": "arcmuhammedberat01",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953482,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:07",
+        "elapsedSeconds": 7
+      },
+      "eliminatedBy": "codasmer25"
+    },
+    {
+      "position": 178,
+      "username": "fc.mneuer",
+      "displayName": "fc.mneuer",
+      "eliminations": 3,
+      "timeOfDeath": 1756026953470,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "v3yselw_"
+    },
+    {
+      "position": 179,
+      "username": "v3yselw_",
+      "displayName": "v3yselw_",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953470,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "fc.mneuer"
+    },
+    {
+      "position": 180,
+      "username": "eymen2.7",
+      "displayName": "eymen2.7",
+      "eliminations": 5,
+      "timeOfDeath": 1756026953458,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "beratw3454"
+    },
+    {
+      "position": 181,
+      "username": "beratw3454",
+      "displayName": "beratw3454",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953458,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "eymen2.7"
+    },
+    {
+      "position": 182,
+      "username": "ahmetcr_41",
+      "displayName": "ahmetcr_41",
+      "eliminations": 3,
+      "timeOfDeath": 1756026953436,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "mertemiry443"
+    },
+    {
+      "position": 183,
+      "username": "enessbahco",
+      "displayName": "enessbahco",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953428,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "rafa_rejma72.1727"
+    },
+    {
+      "position": 184,
+      "username": "salt2ahmt",
+      "displayName": "salt2ahmt",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953424,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "kadiryilmaz3533"
+    },
+    {
+      "position": 185,
+      "username": "rautiusbs",
+      "displayName": "rautiusbs",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953420,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "recepwhite1"
+    },
+    {
+      "position": 186,
+      "username": "35_.yasin_",
+      "displayName": "35_.yasin_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953420,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "kuzeyfener"
+    },
+    {
+      "position": 187,
+      "username": "kaportaci_mahmut_06",
+      "displayName": "kaportaci_mahmut_06",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953415,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "zayif.alperen"
+    },
+    {
+      "position": 188,
+      "username": "ahme_tt505",
+      "displayName": "ahme_tt505",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953411,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "enes_trhnn56"
+    },
+    {
+      "position": 189,
+      "username": "tofas_simsekgucu_fsk",
+      "displayName": "tofas_simsekgucu_fsk",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953407,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "azadefeisik"
+    },
+    {
+      "position": 190,
+      "username": "tarifi_yap",
+      "displayName": "tarifi_yap",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953403,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "sigma_sigara_official"
+    },
+    {
+      "position": 191,
+      "username": "burhan_deniz20",
+      "displayName": "burhan_deniz20",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953399,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "alperenms"
+    },
+    {
+      "position": 192,
+      "username": "followsilco",
+      "displayName": "followsilco",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953395,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "yusuf_gs4612"
+    },
+    {
+      "position": 193,
+      "username": "1efexs",
+      "displayName": "1efexs",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953390,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "eymen2.7"
+    },
+    {
+      "position": 194,
+      "username": "as.ss9278",
+      "displayName": "as.ss9278",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953390,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "eymen2.7"
+    },
+    {
+      "position": 195,
+      "username": "pizzaustasi31v2",
+      "displayName": "pizzaustasi31v2",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953386,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "justmetumun"
+    },
+    {
+      "position": 196,
+      "username": "ac_venticello_fc",
+      "displayName": "ac_venticello_fc",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953386,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "erikerin_"
+    },
+    {
+      "position": 197,
+      "username": "qumit_42",
+      "displayName": "qumit_42",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953382,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "memoli_fc1905"
+    },
+    {
+      "position": 198,
+      "username": "gumusalper35",
+      "displayName": "gumusalper35",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953374,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "gereksiz_post15"
+    },
+    {
+      "position": 199,
+      "username": "leo_metti",
+      "displayName": "leo_metti",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953369,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "eyme_n9972"
+    },
+    {
+      "position": 200,
+      "username": "semihcaan1903",
+      "displayName": "semihcaan1903",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953357,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "jrasxe"
+    },
+    {
+      "position": 201,
+      "username": "kafam_mixed5731",
+      "displayName": "kafam_mixed5731",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953290,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "35harunali"
+    },
+    {
+      "position": 202,
+      "username": "ozan_cnr_09",
+      "displayName": "ozan_cnr_09",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953282,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "yigitt_9_"
+    },
+    {
+      "position": 203,
+      "username": "emo2.lss",
+      "displayName": "emo2.lss",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953253,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "hvho0011"
+    },
+    {
+      "position": 204,
+      "username": "orhannboz",
+      "displayName": "orhannboz",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953253,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ac_venticello_fc"
+    },
+    {
+      "position": 205,
+      "username": "husos2016",
+      "displayName": "husos2016",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953240,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ibrahim_10rafa_leao"
+    },
+    {
+      "position": 206,
+      "username": "onur_kaan016",
+      "displayName": "onur_kaan016",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953236,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "alperen_4564"
+    },
+    {
+      "position": 207,
+      "username": "hamza_000_213",
+      "displayName": "hamza_000_213",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953232,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "creampiecc"
+    },
+    {
+      "position": 208,
+      "username": "kreuzbergunited",
+      "displayName": "kreuzbergunited",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953220,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "emo2.lss"
+    },
+    {
+      "position": 209,
+      "username": "olmayantalha_",
+      "displayName": "olmayantalha_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953215,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ozan_cnr_09"
+    },
+    {
+      "position": 210,
+      "username": "ahmett_hqn71",
+      "displayName": "ahmett_hqn71",
+      "eliminations": 3,
+      "timeOfDeath": 1756026953211,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "messi_aswoo"
+    },
+    {
+      "position": 211,
+      "username": "esosahin58",
+      "displayName": "esosahin58",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953198,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "bs_jk1903"
+    },
+    {
+      "position": 212,
+      "username": "7a.mizahh",
+      "displayName": "7a.mizahh",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953198,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "fenerviids1"
+    },
+    {
+      "position": 213,
+      "username": "fenerviids1",
+      "displayName": "fenerviids1",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953198,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "7a.mizahh"
+    },
+    {
+      "position": 214,
+      "username": "devrimbayar_7",
+      "displayName": "devrimbayar_7",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953190,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "zd_mastrzengin.2"
+    },
+    {
+      "position": 215,
+      "username": "zd_mastrzengin.2",
+      "displayName": "zd_mastrzengin.2",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953190,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "devrimbayar_7"
+    },
+    {
+      "position": 216,
+      "username": "batuhangundogar",
+      "displayName": "batuhangundogar",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953182,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "enessbahco"
+    },
+    {
+      "position": 217,
+      "username": "jennieninhayrani",
+      "displayName": "jennieninhayrani",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953153,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "burhan_deniz20"
+    },
+    {
+      "position": 218,
+      "username": "jayelotis",
+      "displayName": "jayelotis",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953144,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "b3kir_efe36"
+    },
+    {
+      "position": 219,
+      "username": "b3kir_efe36",
+      "displayName": "b3kir_efe36",
+      "eliminations": 4,
+      "timeOfDeath": 1756026953144,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "jayelotis"
+    },
+    {
+      "position": 220,
+      "username": "ufuq_w7",
+      "displayName": "ufuq_w7",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953144,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "kivancgul13"
+    },
+    {
+      "position": 221,
+      "username": "sabittaha_8",
+      "displayName": "sabittaha_8",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953144,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "pixarmcquenn"
+    },
+    {
+      "position": 222,
+      "username": "12recep_taskin",
+      "displayName": "12recep_taskin",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953132,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "hamza_000_213"
+    },
+    {
+      "position": 223,
+      "username": "emrkragoz_012",
+      "displayName": "emrkragoz_012",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953120,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "codasmer25"
+    },
+    {
+      "position": 224,
+      "username": "sigmayim77",
+      "displayName": "sigmayim77",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953115,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "muhammed_kocer15"
+    },
+    {
+      "position": 225,
+      "username": "hasankoc2168",
+      "displayName": "hasankoc2168",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953107,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "salt2ahmt"
+    },
+    {
+      "position": 226,
+      "username": "wrapitup212",
+      "displayName": "wrapitup212",
+      "eliminations": 4,
+      "timeOfDeath": 1756026953098,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "berkay_can600"
+    },
+    {
+      "position": 227,
+      "username": "qwmiracwq",
+      "displayName": "qwmiracwq",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953090,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "adem1_ege"
+    },
+    {
+      "position": 228,
+      "username": "maho.51.01",
+      "displayName": "maho.51.01",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953069,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "bycolonel"
+    },
+    {
+      "position": 229,
+      "username": "o6eyymeenn",
+      "displayName": "o6eyymeenn",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953065,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "seyit_baba_06"
+    },
+    {
+      "position": 230,
+      "username": "efe.td",
+      "displayName": "efe.td",
+      "eliminations": 3,
+      "timeOfDeath": 1756026953061,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "yasar.ali_official"
+    },
+    {
+      "position": 231,
+      "username": "alipoyrazfr",
+      "displayName": "alipoyrazfr",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953048,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "g3bies"
+    },
+    {
+      "position": 232,
+      "username": "yusufaydin0303",
+      "displayName": "yusufaydin0303",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953037,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "kivancgul13"
+    },
+    {
+      "position": 233,
+      "username": "kesssyyyyyy",
+      "displayName": "kesssyyyyyy",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953034,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "o6eyymeenn"
+    },
+    {
+      "position": 234,
+      "username": "hasan4224hsn",
+      "displayName": "hasan4224hsn",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953031,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "xq_ahmet_can16"
+    },
+    {
+      "position": 235,
+      "username": "a2_nl9",
+      "displayName": "a2_nl9",
+      "eliminations": 2,
+      "timeOfDeath": 1756026953031,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "emir25.16"
+    },
+    {
+      "position": 236,
+      "username": "baran_bal1907",
+      "displayName": "baran_bal1907",
+      "eliminations": 1,
+      "timeOfDeath": 1756026953017,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "kuzeyfener"
+    },
+    {
+      "position": 237,
+      "username": "emir_elvr06",
+      "displayName": "emir_elvr06",
+      "eliminations": 0,
+      "timeOfDeath": 1756026953007,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:53",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ahmett_hqn71"
+    },
+    {
+      "position": 238,
+      "username": "gtvar19108",
+      "displayName": "gtvar19108",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952999,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "xq_ahmet_can16"
+    },
+    {
+      "position": 239,
+      "username": "mustafagahgultekin",
+      "displayName": "mustafagahgultekin",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952999,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "emr_scgn"
+    },
+    {
+      "position": 240,
+      "username": "emr_scgn",
+      "displayName": "emr_scgn",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952999,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "mustafagahgultekin"
+    },
+    {
+      "position": 241,
+      "username": "supersonic131",
+      "displayName": "supersonic131",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952994,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "qwmiracwq"
+    },
+    {
+      "position": 242,
+      "username": "kaankaracaa58",
+      "displayName": "kaankaracaa58",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952986,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ahmet40emir4"
+    },
+    {
+      "position": 243,
+      "username": "dracosilva_3593",
+      "displayName": "dracosilva_3593",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952982,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ozan_cnr_09"
+    },
+    {
+      "position": 244,
+      "username": "beratberkkilic",
+      "displayName": "beratberkkilic",
+      "eliminations": 3,
+      "timeOfDeath": 1756026952978,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "enesae09"
+    },
+    {
+      "position": 245,
+      "username": "enesae09",
+      "displayName": "enesae09",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952978,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "beratberkkilic"
+    },
+    {
+      "position": 246,
+      "username": "cgan_gns",
+      "displayName": "cgan_gns",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952969,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "mrhuston0"
+    },
+    {
+      "position": 247,
+      "username": "yusuf_sadi7",
+      "displayName": "yusuf_sadi7",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952965,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "9eskisehirspor9"
+    },
+    {
+      "position": 248,
+      "username": "bekirekici1905",
+      "displayName": "bekirekici1905",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952965,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ohsitsivas"
+    },
+    {
+      "position": 249,
+      "username": "ysuf.efe077",
+      "displayName": "ysuf.efe077",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952961,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "13arexezew12"
+    },
+    {
+      "position": 250,
+      "username": "havaayagmurlu",
+      "displayName": "havaayagmurlu",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952953,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "yoshikage_kira.st.1"
+    },
+    {
+      "position": 251,
+      "username": "bubulu.tt",
+      "displayName": "bubulu.tt",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952944,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "sultanselimhan_priiiw"
+    },
+    {
+      "position": 252,
+      "username": "altunel960",
+      "displayName": "altunel960",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952936,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "alper_sw1"
+    },
+    {
+      "position": 253,
+      "username": "suleymanyurtoglu27",
+      "displayName": "suleymanyurtoglu27",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952915,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "muhammed_kocer15"
+    },
+    {
+      "position": 254,
+      "username": "seym1n11",
+      "displayName": "seym1n11",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952915,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "adem1_ege"
+    },
+    {
+      "position": 255,
+      "username": "berkaytahahuner",
+      "displayName": "berkaytahahuner",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952911,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "bs_jk1903"
+    },
+    {
+      "position": 256,
+      "username": "alipekoz4",
+      "displayName": "alipekoz4",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952907,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "jayelotis"
+    },
+    {
+      "position": 257,
+      "username": "sabahattin_edits_10x",
+      "displayName": "sabahattin_edits_10x",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952899,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "duran_yrar"
+    },
+    {
+      "position": 258,
+      "username": "msiyar_35",
+      "displayName": "msiyar_35",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952899,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "efe.td"
+    },
+    {
+      "position": 259,
+      "username": "can_ardc",
+      "displayName": "can_ardc",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952895,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "g3bies"
+    },
+    {
+      "position": 260,
+      "username": "lemina.alp",
+      "displayName": "lemina.alp",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952890,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "beratberkkilic"
+    },
+    {
+      "position": 261,
+      "username": "metesvg",
+      "displayName": "metesvg",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952890,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "orcun_cakir39"
+    },
+    {
+      "position": 262,
+      "username": "keremdvli",
+      "displayName": "keremdvli",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952882,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "asaf_tugra_ugur"
+    },
+    {
+      "position": 263,
+      "username": "tunahand_mrhn14",
+      "displayName": "tunahand_mrhn14",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952878,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "mehmetcan.akcy.5007"
+    },
+    {
+      "position": 264,
+      "username": "hasanzlem",
+      "displayName": "hasanzlem",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952865,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "bkkl_ng"
+    },
+    {
+      "position": 265,
+      "username": "mert_sglm53",
+      "displayName": "mert_sglm53",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952861,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "yoshikage_kira.st.1"
+    },
+    {
+      "position": 266,
+      "username": "burak__8303",
+      "displayName": "burak__8303",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952857,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "emiralperoffical"
+    },
+    {
+      "position": 267,
+      "username": "emiralperoffical",
+      "displayName": "emiralperoffical",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952857,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "burak__8303"
+    },
+    {
+      "position": 268,
+      "username": "eymen_karaca29819",
+      "displayName": "eymen_karaca29819",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952849,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "football_edits644"
+    },
+    {
+      "position": 269,
+      "username": "alperenmcc",
+      "displayName": "alperenmcc",
+      "eliminations": 3,
+      "timeOfDeath": 1756026952845,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "kreuzbergunited"
+    },
+    {
+      "position": 270,
+      "username": "ff.mami_04",
+      "displayName": "ff.mami_04",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952845,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "eymenkahya"
+    },
+    {
+      "position": 271,
+      "username": "awdahqlc",
+      "displayName": "awdahqlc",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952840,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "emiralperoffical"
+    },
+    {
+      "position": 272,
+      "username": "mehmet_efeylmz",
+      "displayName": "mehmet_efeylmz",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952832,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "sqarda"
+    },
+    {
+      "position": 273,
+      "username": "semihhglrr16",
+      "displayName": "semihhglrr16",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952824,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "d0_r_4k"
+    },
+    {
+      "position": 274,
+      "username": "d0_r_4k",
+      "displayName": "d0_r_4k",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952824,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "semihhglrr16"
+    },
+    {
+      "position": 275,
+      "username": "yusuf_sdcgs",
+      "displayName": "yusuf_sdcgs",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952819,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ahmetemir_yasar52"
+    },
+    {
+      "position": 276,
+      "username": "cnarcetin14",
+      "displayName": "cnarcetin14",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952815,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "gereksiz_post15"
+    },
+    {
+      "position": 277,
+      "username": "evil_marka",
+      "displayName": "evil_marka",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952815,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "hasan4224hsn"
+    },
+    {
+      "position": 278,
+      "username": "duru_230799",
+      "displayName": "duru_230799",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952807,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ysuf.efe077"
+    },
+    {
+      "position": 279,
+      "username": "rah__miy",
+      "displayName": "rah__miy",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952786,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "cnarcetin14"
+    },
+    {
+      "position": 280,
+      "username": "metinkayracan",
+      "displayName": "metinkayracan",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952778,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "semihhglrr16"
+    },
+    {
+      "position": 281,
+      "username": "nur.valo",
+      "displayName": "nur.valo",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952778,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "yaserblgsvn"
+    },
+    {
+      "position": 282,
+      "username": "yusuf.senci33",
+      "displayName": "yusuf.senci33",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952778,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "alperen551903"
+    },
+    {
+      "position": 283,
+      "username": "volkandemirel.gt",
+      "displayName": "volkandemirel.gt",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952769,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "_burakdnr9"
+    },
+    {
+      "position": 284,
+      "username": "yagiz_kilinc06",
+      "displayName": "yagiz_kilinc06",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952769,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "alipoyrazfr"
+    },
+    {
+      "position": 285,
+      "username": "efedobronxss1",
+      "displayName": "efedobronxss1",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952761,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "13arexezew12"
+    },
+    {
+      "position": 286,
+      "username": "azra_ic.lal",
+      "displayName": "azra_ic.lal",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952736,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "hasanzlem"
+    },
+    {
+      "position": 287,
+      "username": "minecraft321prosu",
+      "displayName": "minecraft321prosu",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952719,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "msiyar_35"
+    },
+    {
+      "position": 288,
+      "username": "forza_kocaeli4141",
+      "displayName": "forza_kocaeli4141",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952715,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "mehmet_efeylmz"
+    },
+    {
+      "position": 289,
+      "username": "desservte",
+      "displayName": "desservte",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952694,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "berosxxq"
+    },
+    {
+      "position": 290,
+      "username": "egeyigit__",
+      "displayName": "egeyigit__",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952669,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "miskinsi_miskin"
+    },
+    {
+      "position": 291,
+      "username": "miskinsi_miskin",
+      "displayName": "miskinsi_miskin",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952669,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "egeyigit__"
+    },
+    {
+      "position": 292,
+      "username": "canaberko",
+      "displayName": "canaberko",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952650,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "35beko35_"
+    },
+    {
+      "position": 293,
+      "username": "metehann.real",
+      "displayName": "metehann.real",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952636,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "suleymanyurtoglu27"
+    },
+    {
+      "position": 294,
+      "username": "muhammed_1907_07",
+      "displayName": "muhammed_1907_07",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952632,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "followsilco"
+    },
+    {
+      "position": 295,
+      "username": "bartu.aksu.7",
+      "displayName": "bartu.aksu.7",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952619,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "fikret_bora_ylmz"
+    },
+    {
+      "position": 296,
+      "username": "durum3131_",
+      "displayName": "durum3131_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952619,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "sayginer.420"
+    },
+    {
+      "position": 297,
+      "username": "ultra.editz06",
+      "displayName": "ultra.editz06",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952611,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "necmiberkeuzunlas"
+    },
+    {
+      "position": 298,
+      "username": "necmiberkeuzunlas",
+      "displayName": "necmiberkeuzunlas",
+      "eliminations": 3,
+      "timeOfDeath": 1756026952611,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ultra.editz06"
+    },
+    {
+      "position": 299,
+      "username": "mhmt.1019",
+      "displayName": "mhmt.1019",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952598,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "fc.mneuer"
+    },
+    {
+      "position": 300,
+      "username": "north_man1942",
+      "displayName": "north_man1942",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952598,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "1903ayazk"
+    },
+    {
+      "position": 301,
+      "username": "1903ayazk",
+      "displayName": "1903ayazk",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952598,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "north_man1942"
+    },
+    {
+      "position": 302,
+      "username": "_a_r_d_a_k_a_a_n_",
+      "displayName": "_a_r_d_a_k_a_a_n_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952586,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "fikret_bora_ylmz"
+    },
+    {
+      "position": 303,
+      "username": "ugurflick",
+      "displayName": "ugurflick",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952586,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "burhan_deniz20"
+    },
+    {
+      "position": 304,
+      "username": "beytullah_ilbuga",
+      "displayName": "beytullah_ilbuga",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952582,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "xq_ahmet_can16"
+    },
+    {
+      "position": 305,
+      "username": "quel_besiktas336",
+      "displayName": "quel_besiktas336",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952577,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "bubulu.tt"
+    },
+    {
+      "position": 306,
+      "username": "mericcyaren",
+      "displayName": "mericcyaren",
+      "eliminations": 3,
+      "timeOfDeath": 1756026952569,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "hasankoc2168"
+    },
+    {
+      "position": 307,
+      "username": "ayberk_61010",
+      "displayName": "ayberk_61010",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952561,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "bycolonel"
+    },
+    {
+      "position": 307,
+      "username": "cosk_n_",
+      "displayName": "cosk_n_",
+      "eliminations": 3,
+      "timeOfDeath": 1756026952561,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "azra_ic.lal"
+    },
+    {
+      "position": 308,
+      "username": "cinarerinc3",
+      "displayName": "cinarerinc3",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952561,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "mamoball_doue"
+    },
+    {
+      "position": 309,
+      "username": "cosk_n_",
+      "displayName": "cosk_n_",
+      "eliminations": 3,
+      "timeOfDeath": 1756026952561,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "pizzaustasi31v2"
+    },
+    {
+      "position": 310,
+      "username": "_minipekkaa_crl",
+      "displayName": "_minipekkaa_crl",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952548,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "omerasaf_ak100"
+    },
+    {
+      "position": 311,
+      "username": "gercekkkmessiiiiii",
+      "displayName": "gercekkkmessiiiiii",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952548,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "cgan_gns"
+    },
+    {
+      "position": 312,
+      "username": "abraham99999123",
+      "displayName": "abraham99999123",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952536,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ysuf.efe077"
+    },
+    {
+      "position": 313,
+      "username": "hrixtr",
+      "displayName": "hrixtr",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952536,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "baran6_5"
+    },
+    {
+      "position": 314,
+      "username": "raondevil",
+      "displayName": "raondevil",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952528,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "talha135956"
+    },
+    {
+      "position": 315,
+      "username": "selam_ben_loona3169",
+      "displayName": "selam_ben_loona3169",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952528,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "rah__miy"
+    },
+    {
+      "position": 316,
+      "username": "can_s._2009",
+      "displayName": "can_s._2009",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952524,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "adnan_sen214"
+    },
+    {
+      "position": 317,
+      "username": "nazmdnedr7",
+      "displayName": "nazmdnedr7",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952519,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "mehmet_omerxtr"
+    },
+    {
+      "position": 318,
+      "username": "faytoptkrl",
+      "displayName": "faytoptkrl",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952515,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "mustafagahgultekin"
+    },
+    {
+      "position": 319,
+      "username": "emirv2l",
+      "displayName": "emirv2l",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952511,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "busrapeksoz"
+    },
+    {
+      "position": 320,
+      "username": "rita07starsytreal",
+      "displayName": "rita07starsytreal",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952507,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ilkerosdemiros"
+    },
+    {
+      "position": 321,
+      "username": "bsrakbal",
+      "displayName": "bsrakbal",
+      "eliminations": 3,
+      "timeOfDeath": 1756026952486,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "ahmett_hqn71"
+    },
+    {
+      "position": 322,
+      "username": "aliberkingokmen",
+      "displayName": "aliberkingokmen",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952486,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:06",
+        "elapsedSeconds": 6
+      },
+      "eliminatedBy": "sultanselimhan_priiiw"
+    },
+    {
+      "position": 323,
+      "username": "eymen_1842",
+      "displayName": "eymen_1842",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952465,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "messi_aswoo"
+    },
+    {
+      "position": 324,
+      "username": "kyagnrg",
+      "displayName": "kyagnrg",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952457,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "eymen2.7"
+    },
+    {
+      "position": 325,
+      "username": "19semih01",
+      "displayName": "19semih01",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952449,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "egeyildirim_10"
+    },
+    {
+      "position": 326,
+      "username": "shidou_ryusei__.2",
+      "displayName": "shidou_ryusei__.2",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952445,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "shanks18224"
+    },
+    {
+      "position": 327,
+      "username": "aglayan_penci31",
+      "displayName": "aglayan_penci31",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952419,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "rah__miy"
+    },
+    {
+      "position": 328,
+      "username": "xcinar57",
+      "displayName": "xcinar57",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952419,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "hvho0011"
+    },
+    {
+      "position": 329,
+      "username": "nicolo_ebuu",
+      "displayName": "nicolo_ebuu",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952411,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "azadefeisik"
+    },
+    {
+      "position": 330,
+      "username": "yilmazbugra6752",
+      "displayName": "yilmazbugra6752",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952407,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "rautiusbs"
+    },
+    {
+      "position": 331,
+      "username": "_ilkerbascii",
+      "displayName": "_ilkerbascii",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952407,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "suleymanyurtoglu27"
+    },
+    {
+      "position": 332,
+      "username": "alperenakkaya737",
+      "displayName": "alperenakkaya737",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952407,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "alper_sw1"
+    },
+    {
+      "position": 333,
+      "username": "naturalcbum",
+      "displayName": "naturalcbum",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952395,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "gereksiz_post15"
+    },
+    {
+      "position": 334,
+      "username": "_mehmet.orcun.01_",
+      "displayName": "_mehmet.orcun.01_",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952386,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "nur.valo"
+    },
+    {
+      "position": 335,
+      "username": "kerokerovik",
+      "displayName": "kerokerovik",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952386,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "_burakdnr9"
+    },
+    {
+      "position": 336,
+      "username": "bilbas.pagi",
+      "displayName": "bilbas.pagi",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952386,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "sigmayim77"
+    },
+    {
+      "position": 337,
+      "username": "syed4aa",
+      "displayName": "syed4aa",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952386,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "bsrakbal"
+    },
+    {
+      "position": 337,
+      "username": "sadece_hamdi_",
+      "displayName": "sadece_hamdi_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952386,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mericcyaren"
+    },
+    {
+      "position": 338,
+      "username": "sadece_hamdi_",
+      "displayName": "sadece_hamdi_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952386,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "arda_guler_daily"
+    },
+    {
+      "position": 339,
+      "username": "kayipbalikhacii",
+      "displayName": "kayipbalikhacii",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952378,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "efe.td"
+    },
+    {
+      "position": 340,
+      "username": "stkabdul.kdr",
+      "displayName": "stkabdul.kdr",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952378,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "eymen2.7"
+    },
+    {
+      "position": 341,
+      "username": "_kerimyardimcii",
+      "displayName": "_kerimyardimcii",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952378,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "emirv2l"
+    },
+    {
+      "position": 342,
+      "username": "bertug.7_2010",
+      "displayName": "bertug.7_2010",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952365,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "ugur_kyya_"
+    },
+    {
+      "position": 343,
+      "username": "aardarumi",
+      "displayName": "aardarumi",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952360,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "lunavehaydar"
+    },
+    {
+      "position": 344,
+      "username": "ege.g0",
+      "displayName": "ege.g0",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952360,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "atahannsenturk"
+    },
+    {
+      "position": 345,
+      "username": "1bra_0lug27",
+      "displayName": "1bra_0lug27",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952360,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "yusmos7"
+    },
+    {
+      "position": 346,
+      "username": "muuratozkan",
+      "displayName": "muuratozkan",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952355,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "1efexs"
+    },
+    {
+      "position": 347,
+      "username": "mevlut.topdas",
+      "displayName": "mevlut.topdas",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952339,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "bekirekici1905"
+    },
+    {
+      "position": 348,
+      "username": "burakceyll",
+      "displayName": "burakceyll",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952339,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "hvho0011"
+    },
+    {
+      "position": 349,
+      "username": "beytoelpaso",
+      "displayName": "beytoelpaso",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952339,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "necmiberkeuzunlas"
+    },
+    {
+      "position": 350,
+      "username": "b_u_r_a_k620",
+      "displayName": "b_u_r_a_k620",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952334,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "muhammed_kocer15"
+    },
+    {
+      "position": 351,
+      "username": "berkoz_9012",
+      "displayName": "berkoz_9012",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952334,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "metesvg"
+    },
+    {
+      "position": 352,
+      "username": "kursatmeric",
+      "displayName": "kursatmeric",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952329,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "cosk_n_"
+    },
+    {
+      "position": 353,
+      "username": "esrabozzkurtt",
+      "displayName": "esrabozzkurtt",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952329,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "miskinsi_miskin"
+    },
+    {
+      "position": 354,
+      "username": "mete929138",
+      "displayName": "mete929138",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952316,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "ahmetcr_41"
+    },
+    {
+      "position": 355,
+      "username": "kivancaltugg",
+      "displayName": "kivancaltugg",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952311,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "berkoz_9012"
+    },
+    {
+      "position": 356,
+      "username": "omer_ayar48",
+      "displayName": "omer_ayar48",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952311,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "m.talha_"
+    },
+    {
+      "position": 357,
+      "username": "cenkkaan2025",
+      "displayName": "cenkkaan2025",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952306,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "beratberkkilic"
+    },
+    {
+      "position": 358,
+      "username": "beytullahozgann",
+      "displayName": "beytullahozgann",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952306,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "musa_mertt1"
+    },
+    {
+      "position": 359,
+      "username": "adem_efe3341",
+      "displayName": "adem_efe3341",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952301,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "ff.mami_04"
+    },
+    {
+      "position": 360,
+      "username": "noxveil_tr",
+      "displayName": "noxveil_tr",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952297,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "s.a.l.i.55"
+    },
+    {
+      "position": 361,
+      "username": "messininelifi",
+      "displayName": "messininelifi",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952291,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mericcyaren"
+    },
+    {
+      "position": 362,
+      "username": "omerkizilarslanoglu",
+      "displayName": "omerkizilarslanoglu",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952291,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "arinferhann"
+    },
+    {
+      "position": 363,
+      "username": "gaziantep_fk_mz",
+      "displayName": "gaziantep_fk_mz",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952286,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "a2_nl9"
+    },
+    {
+      "position": 364,
+      "username": "omer_kuzu0",
+      "displayName": "omer_kuzu0",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952286,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "emrkragoz_012"
+    },
+    {
+      "position": 365,
+      "username": "rerowcat",
+      "displayName": "rerowcat",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952276,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "heeeeu01"
+    },
+    {
+      "position": 366,
+      "username": "l0hmi_lachine92375",
+      "displayName": "l0hmi_lachine92375",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952271,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "yaserblgsvn"
+    },
+    {
+      "position": 367,
+      "username": "qwmamis.1",
+      "displayName": "qwmamis.1",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952271,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "kuzeyfener"
+    },
+    {
+      "position": 368,
+      "username": "ttkckerim",
+      "displayName": "ttkckerim",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952266,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mehmetcan.akcy.5007"
+    },
+    {
+      "position": 369,
+      "username": "yagz_jk.7",
+      "displayName": "yagz_jk.7",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952257,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "asigo_24"
+    },
+    {
+      "position": 370,
+      "username": "asigo_24",
+      "displayName": "asigo_24",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952257,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "yagz_jk.7"
+    },
+    {
+      "position": 371,
+      "username": "r_qwawm",
+      "displayName": "r_qwawm",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952245,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "nfeeo34ytb"
+    },
+    {
+      "position": 372,
+      "username": "gfb_aliemir_17",
+      "displayName": "gfb_aliemir_17",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952245,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "llalikarall"
+    },
+    {
+      "position": 373,
+      "username": "55_ygz_55",
+      "displayName": "55_ygz_55",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952245,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "efedobronxss1"
+    },
+    {
+      "position": 374,
+      "username": "simdilik_bugra",
+      "displayName": "simdilik_bugra",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952245,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "omer_kuzu0"
+    },
+    {
+      "position": 375,
+      "username": "efeurasinan",
+      "displayName": "efeurasinan",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952228,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mte_72"
+    },
+    {
+      "position": 376,
+      "username": "mte_72",
+      "displayName": "mte_72",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952228,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "efeurasinan"
+    },
+    {
+      "position": 377,
+      "username": "tahabenselam",
+      "displayName": "tahabenselam",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952228,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "kaiser_benim"
+    },
+    {
+      "position": 378,
+      "username": "girayyildirim1907",
+      "displayName": "girayyildirim1907",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952218,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "berkaytahahuner"
+    },
+    {
+      "position": 379,
+      "username": "ibrahimm_ruzgar1410",
+      "displayName": "ibrahimm_ruzgar1410",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952213,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "burakceyll"
+    },
+    {
+      "position": 380,
+      "username": "eymenkaplan34",
+      "displayName": "eymenkaplan34",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952208,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "kaankaracaa58"
+    },
+    {
+      "position": 381,
+      "username": "kutay.52",
+      "displayName": "kutay.52",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952204,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "zklis8"
+    },
+    {
+      "position": 382,
+      "username": "fatihangulmen",
+      "displayName": "fatihangulmen",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952199,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "9eskisehirspor9"
+    },
+    {
+      "position": 383,
+      "username": "ronaldinhojr.27",
+      "displayName": "ronaldinhojr.27",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952199,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "wrapitup212"
+    },
+    {
+      "position": 384,
+      "username": "dogusucu_33",
+      "displayName": "dogusucu_33",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952184,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "kursatmeric"
+    },
+    {
+      "position": 385,
+      "username": "4q_xqq",
+      "displayName": "4q_xqq",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952184,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "rautiusbs"
+    },
+    {
+      "position": 386,
+      "username": "gencenvererol",
+      "displayName": "gencenvererol",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952179,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "altunel960"
+    },
+    {
+      "position": 387,
+      "username": "fikretkesgin_35",
+      "displayName": "fikretkesgin_35",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952174,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "twindubstorm"
+    },
+    {
+      "position": 388,
+      "username": "hz.belam",
+      "displayName": "hz.belam",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952174,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "aardarumi"
+    },
+    {
+      "position": 389,
+      "username": "s_2mi7n",
+      "displayName": "s_2mi7n",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952160,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "b3kir_efe36"
+    },
+    {
+      "position": 390,
+      "username": "bberatttm",
+      "displayName": "bberatttm",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952156,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "alpvuralgs"
+    },
+    {
+      "position": 391,
+      "username": "ikraxblis",
+      "displayName": "ikraxblis",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952142,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "fc.mneuer"
+    },
+    {
+      "position": 392,
+      "username": "renas5176",
+      "displayName": "renas5176",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952137,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mamoball_simsekmcquenn"
+    },
+    {
+      "position": 393,
+      "username": "shingheyyy",
+      "displayName": "shingheyyy",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952132,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "kuzey_can_saracogluu"
+    },
+    {
+      "position": 394,
+      "username": "tahauslu.xqq",
+      "displayName": "tahauslu.xqq",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952127,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "denizaliiaaaa"
+    },
+    {
+      "position": 395,
+      "username": "xq_h4sqn",
+      "displayName": "xq_h4sqn",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952121,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "bsrakbal"
+    },
+    {
+      "position": 396,
+      "username": "show3_363",
+      "displayName": "show3_363",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952121,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "b3kir_efe36"
+    },
+    {
+      "position": 397,
+      "username": "ege_ay__",
+      "displayName": "ege_ay__",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952111,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "b3kir_efe36"
+    },
+    {
+      "position": 398,
+      "username": "baris.bboz",
+      "displayName": "baris.bboz",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952111,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "aglayan_penci31"
+    },
+    {
+      "position": 399,
+      "username": "berat.z.adiyaman",
+      "displayName": "berat.z.adiyaman",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952089,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "rafa_rejma72.1727"
+    },
+    {
+      "position": 400,
+      "username": "umttdnmz",
+      "displayName": "umttdnmz",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952079,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "jennieninhayrani"
+    },
+    {
+      "position": 401,
+      "username": "yagizalpozpk",
+      "displayName": "yagizalpozpk",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952069,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "_mehmet.orcun.01_"
+    },
+    {
+      "position": 402,
+      "username": "knower_cat",
+      "displayName": "knower_cat",
+      "eliminations": 1,
+      "timeOfDeath": 1756026952038,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "fethi_yln2"
+    },
+    {
+      "position": 403,
+      "username": "fethi_yln2",
+      "displayName": "fethi_yln2",
+      "eliminations": 2,
+      "timeOfDeath": 1756026952038,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "knower_cat"
+    },
+    {
+      "position": 404,
+      "username": "abidin0990",
+      "displayName": "abidin0990",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952033,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "adem_efe3341"
+    },
+    {
+      "position": 405,
+      "username": "5050_ali_selim",
+      "displayName": "5050_ali_selim",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952033,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "lunavehaydar"
+    },
+    {
+      "position": 406,
+      "username": "sivaslizenci31_",
+      "displayName": "sivaslizenci31_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952019,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "ozgurum44"
+    },
+    {
+      "position": 407,
+      "username": "esapmaz_5454",
+      "displayName": "esapmaz_5454",
+      "eliminations": 0,
+      "timeOfDeath": 1756026952019,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:52",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "cosk_n_"
+    },
+    {
+      "position": 408,
+      "username": "m_ira_c55",
+      "displayName": "m_ira_c55",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951993,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "keremdvli"
+    },
+    {
+      "position": 409,
+      "username": "hacimustafadeveci",
+      "displayName": "hacimustafadeveci",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951993,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "berat44uzun"
+    },
+    {
+      "position": 410,
+      "username": "fatihgelturan5",
+      "displayName": "fatihgelturan5",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951993,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "adem1_ege"
+    },
+    {
+      "position": 411,
+      "username": "umut3ss",
+      "displayName": "umut3ss",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951993,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "kutay.52"
+    },
+    {
+      "position": 412,
+      "username": "furkant_241",
+      "displayName": "furkant_241",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951987,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "abe_yaw_sari_kola_biti"
+    },
+    {
+      "position": 413,
+      "username": "salih1258add",
+      "displayName": "salih1258add",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951987,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "tarifi_yap"
+    },
+    {
+      "position": 414,
+      "username": "mehmetaras4600",
+      "displayName": "mehmetaras4600",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951981,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "kursatmeric"
+    },
+    {
+      "position": 415,
+      "username": "xantress_peek",
+      "displayName": "xantress_peek",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951981,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "4q_xqq"
+    },
+    {
+      "position": 416,
+      "username": "emir50557",
+      "displayName": "emir50557",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951976,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "eyme_n9972"
+    },
+    {
+      "position": 417,
+      "username": "suphiacar47",
+      "displayName": "suphiacar47",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951961,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "stkabdul.kdr"
+    },
+    {
+      "position": 418,
+      "username": "jetro1_marka",
+      "displayName": "jetro1_marka",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951946,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mehmetcan.akcy.5007"
+    },
+    {
+      "position": 419,
+      "username": "_kado255",
+      "displayName": "_kado255",
+      "eliminations": 2,
+      "timeOfDeath": 1756026951946,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "agit_rezan_7247"
+    },
+    {
+      "position": 420,
+      "username": "azad.mengucek",
+      "displayName": "azad.mengucek",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951946,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mhmt.1019"
+    },
+    {
+      "position": 421,
+      "username": "arrda_evraan",
+      "displayName": "arrda_evraan",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951936,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "aizen0560"
+    },
+    {
+      "position": 422,
+      "username": "serhat_1331_",
+      "displayName": "serhat_1331_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951921,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mericcyaren"
+    },
+    {
+      "position": 423,
+      "username": "inanbiliyorum_8",
+      "displayName": "inanbiliyorum_8",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951908,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "muuratozkan"
+    },
+    {
+      "position": 424,
+      "username": "ibrahim.qx2",
+      "displayName": "ibrahim.qx2",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951897,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "c_kocogluu"
+    },
+    {
+      "position": 425,
+      "username": "keremsaay",
+      "displayName": "keremsaay",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951897,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "ahmetcr_41"
+    },
+    {
+      "position": 426,
+      "username": "ll.bqrat_all",
+      "displayName": "ll.bqrat_all",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951891,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "tahauslu.xqq"
+    },
+    {
+      "position": 427,
+      "username": "armagan_melisaa",
+      "displayName": "armagan_melisaa",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951891,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "efe.td"
+    },
+    {
+      "position": 428,
+      "username": "b.poyrazzengin",
+      "displayName": "b.poyrazzengin",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951875,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "19semih01"
+    },
+    {
+      "position": 429,
+      "username": "qzizmertdemir",
+      "displayName": "qzizmertdemir",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951875,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mehmetaras4600"
+    },
+    {
+      "position": 430,
+      "username": "huseyin_yabasun",
+      "displayName": "huseyin_yabasun",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951864,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "kyagnrg"
+    },
+    {
+      "position": 431,
+      "username": "cengizhank_2015",
+      "displayName": "cengizhank_2015",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951843,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "eymen_karaca29819"
+    },
+    {
+      "position": 432,
+      "username": "talhakaraliii",
+      "displayName": "talhakaraliii",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951832,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "yagan_src"
+    },
+    {
+      "position": 433,
+      "username": "m.brskn",
+      "displayName": "m.brskn",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951832,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "ahmett_hqn71"
+    },
+    {
+      "position": 434,
+      "username": "berattt7caponeee",
+      "displayName": "berattt7caponeee",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951826,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "sigma_patates55"
+    },
+    {
+      "position": 435,
+      "username": "arda_sezgin09",
+      "displayName": "arda_sezgin09",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951826,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "nazmdnedr7"
+    },
+    {
+      "position": 436,
+      "username": "kerim_svs27",
+      "displayName": "kerim_svs27",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951820,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "ahmetcr_41"
+    },
+    {
+      "position": 437,
+      "username": "kuzeytosun.44",
+      "displayName": "kuzeytosun.44",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951820,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "tunahand_mrhn14"
+    },
+    {
+      "position": 438,
+      "username": "alperinho_10",
+      "displayName": "alperinho_10",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951814,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "baris.bboz"
+    },
+    {
+      "position": 439,
+      "username": "halikarnasbalikcisiyiit",
+      "displayName": "halikarnasbalikcisiyiit",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951814,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "nazmdnedr7"
+    },
+    {
+      "position": 440,
+      "username": "yusufemreozluk0",
+      "displayName": "yusufemreozluk0",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951808,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "gtvar19108"
+    },
+    {
+      "position": 441,
+      "username": "yigit_ozcan7",
+      "displayName": "yigit_ozcan7",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951808,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "m.talha_"
+    },
+    {
+      "position": 442,
+      "username": "ensari_gl",
+      "displayName": "ensari_gl",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951791,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "arrda_evraan"
+    },
+    {
+      "position": 443,
+      "username": "mamo_zerion",
+      "displayName": "mamo_zerion",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951791,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "eymenkaplan34"
+    },
+    {
+      "position": 444,
+      "username": "mini_pekka79",
+      "displayName": "mini_pekka79",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951781,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "emir50557"
+    },
+    {
+      "position": 445,
+      "username": "kayseri_yaglamasi_",
+      "displayName": "kayseri_yaglamasi_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951775,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "azra_ic.lal"
+    },
+    {
+      "position": 446,
+      "username": "emirsnmz.1905",
+      "displayName": "emirsnmz.1905",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951769,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "alperenmcc"
+    },
+    {
+      "position": 447,
+      "username": "emoo.fr",
+      "displayName": "emoo.fr",
+      "eliminations": 2,
+      "timeOfDeath": 1756026951751,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mevlut.topdas"
+    },
+    {
+      "position": 448,
+      "username": "yasin_yenidunya_",
+      "displayName": "yasin_yenidunya_",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951751,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "b_u_r_a_k620"
+    },
+    {
+      "position": 449,
+      "username": "ppden_renk_bulma",
+      "displayName": "ppden_renk_bulma",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951745,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "yigitt_9_"
+    },
+    {
+      "position": 450,
+      "username": "musap_053",
+      "displayName": "musap_053",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951734,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "duran_yrar"
+    },
+    {
+      "position": 451,
+      "username": "velig.ucluer",
+      "displayName": "velig.ucluer",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951728,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "omer_kuzu0"
+    },
+    {
+      "position": 452,
+      "username": "rainoff121",
+      "displayName": "rainoff121",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951721,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "baran_bal1907"
+    },
+    {
+      "position": 453,
+      "username": "yusuf_kaplanpp33",
+      "displayName": "yusuf_kaplanpp33",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951715,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "fethi_yln2"
+    },
+    {
+      "position": 454,
+      "username": "firat.2177",
+      "displayName": "firat.2177",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951710,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "tahabenselam"
+    },
+    {
+      "position": 455,
+      "username": "eymen.aslann10",
+      "displayName": "eymen.aslann10",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951698,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "emo2.lss"
+    },
+    {
+      "position": 456,
+      "username": "adlpc06",
+      "displayName": "adlpc06",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951698,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mamo_zerion"
+    },
+    {
+      "position": 457,
+      "username": "0bugraycts",
+      "displayName": "0bugraycts",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951687,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "wrapitup212"
+    },
+    {
+      "position": 458,
+      "username": "mehran31x82",
+      "displayName": "mehran31x82",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951681,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "alim_ay_1"
+    },
+    {
+      "position": 459,
+      "username": "eyup_.4402",
+      "displayName": "eyup_.4402",
+      "eliminations": 2,
+      "timeOfDeath": 1756026951664,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "rafa_rejma72.1727"
+    },
+    {
+      "position": 460,
+      "username": "tuerkmann",
+      "displayName": "tuerkmann",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951657,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "35harunali"
+    },
+    {
+      "position": 461,
+      "username": "mehmetsaglam9363",
+      "displayName": "mehmetsaglam9363",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951651,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "emirsnmz.1905"
+    },
+    {
+      "position": 462,
+      "username": "52berkay_kilic",
+      "displayName": "52berkay_kilic",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951644,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "aardarumi"
+    },
+    {
+      "position": 463,
+      "username": "kuzey_deniz_kara",
+      "displayName": "kuzey_deniz_kara",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951644,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "hvho0011"
+    },
+    {
+      "position": 464,
+      "username": "mert_44.22",
+      "displayName": "mert_44.22",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951644,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "efeurasinan"
+    },
+    {
+      "position": 465,
+      "username": "yusuf_er1ta3",
+      "displayName": "yusuf_er1ta3",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951631,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "hvho0011"
+    },
+    {
+      "position": 466,
+      "username": "ligo6061m",
+      "displayName": "ligo6061m",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951631,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "syed4aa"
+    },
+    {
+      "position": 467,
+      "username": "ada343567",
+      "displayName": "ada343567",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951626,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "bekirekici1905"
+    },
+    {
+      "position": 468,
+      "username": "mirac_t_1903",
+      "displayName": "mirac_t_1903",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951603,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "ali_asus11"
+    },
+    {
+      "position": 469,
+      "username": "lyrosistaken",
+      "displayName": "lyrosistaken",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951603,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "tahauslu.xqq"
+    },
+    {
+      "position": 470,
+      "username": "berkaytaha7",
+      "displayName": "berkaytaha7",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951597,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "wrapitup212"
+    },
+    {
+      "position": 471,
+      "username": "purnahd",
+      "displayName": "purnahd",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951591,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "ibrahim_10rafa_leao"
+    },
+    {
+      "position": 472,
+      "username": "yusufi_ynk",
+      "displayName": "yusufi_ynk",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951561,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "mini_pekka79"
+    },
+    {
+      "position": 473,
+      "username": "batuhanaygrmz",
+      "displayName": "batuhanaygrmz",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951549,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "a2_nl9"
+    },
+    {
+      "position": 474,
+      "username": "yusuf_alonsooo33",
+      "displayName": "yusuf_alonsooo33",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951531,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "kreuzbergunited"
+    },
+    {
+      "position": 475,
+      "username": "yigite.o",
+      "displayName": "yigite.o",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951525,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "barissbyg"
+    },
+    {
+      "position": 476,
+      "username": "alimoncul",
+      "displayName": "alimoncul",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951512,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "enessbahco"
+    },
+    {
+      "position": 477,
+      "username": "beratwq_17",
+      "displayName": "beratwq_17",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951506,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "gtvar19108"
+    },
+    {
+      "position": 478,
+      "username": "_kuzeydorukbuz_",
+      "displayName": "_kuzeydorukbuz_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951499,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "umut3ss"
+    },
+    {
+      "position": 479,
+      "username": "dorukxbmw",
+      "displayName": "dorukxbmw",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951487,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:05",
+        "elapsedSeconds": 5
+      },
+      "eliminatedBy": "miracsz11"
+    },
+    {
+      "position": 479,
+      "username": "tospis_61",
+      "displayName": "tospis_61",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951475,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "omer_ayar48"
+    },
+    {
+      "position": 480,
+      "username": "tospis_61",
+      "displayName": "tospis_61",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951475,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "kralxpro2013"
+    },
+    {
+      "position": 481,
+      "username": "denixd07",
+      "displayName": "denixd07",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951457,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "bilbas.pagi"
+    },
+    {
+      "position": 482,
+      "username": "azat32507",
+      "displayName": "azat32507",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951457,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "_kado255"
+    },
+    {
+      "position": 483,
+      "username": "erayyagbasan12",
+      "displayName": "erayyagbasan12",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951440,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "zayif.alperen"
+    },
+    {
+      "position": 484,
+      "username": "bret.csls14",
+      "displayName": "bret.csls14",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951440,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "alim_ay_1"
+    },
+    {
+      "position": 485,
+      "username": "_omer__ucar_",
+      "displayName": "_omer__ucar_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951429,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "ufuq_w7"
+    },
+    {
+      "position": 486,
+      "username": "emrdrmz17",
+      "displayName": "emrdrmz17",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951422,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "semihcaan1903"
+    },
+    {
+      "position": 487,
+      "username": "ssefalaw",
+      "displayName": "ssefalaw",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951409,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "alperosmann"
+    },
+    {
+      "position": 488,
+      "username": "alperosmann",
+      "displayName": "alperosmann",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951409,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "ssefalaw"
+    },
+    {
+      "position": 489,
+      "username": "cihirosa",
+      "displayName": "cihirosa",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951409,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "emoo.fr"
+    },
+    {
+      "position": 490,
+      "username": "darkasaf",
+      "displayName": "darkasaf",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951383,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "muhammed_kocer15"
+    },
+    {
+      "position": 491,
+      "username": "yakupkus_55",
+      "displayName": "yakupkus_55",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951377,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "girayyildirim1907"
+    },
+    {
+      "position": 492,
+      "username": "farukyavuz0780",
+      "displayName": "farukyavuz0780",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951377,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "bertug.7_2010"
+    },
+    {
+      "position": 493,
+      "username": "mbardakci42",
+      "displayName": "mbardakci42",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951377,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "enes_mungan09073"
+    },
+    {
+      "position": 494,
+      "username": "zirhsiz_sovalye_",
+      "displayName": "zirhsiz_sovalye_",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951352,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "ibrahim.qx2"
+    },
+    {
+      "position": 495,
+      "username": "4_cem_4",
+      "displayName": "4_cem_4",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951345,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "berat.z.adiyaman"
+    },
+    {
+      "position": 496,
+      "username": "kedi.leyla.2021",
+      "displayName": "kedi.leyla.2021",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951332,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "yilmazbugra6752"
+    },
+    {
+      "position": 497,
+      "username": "karpuz_fr",
+      "displayName": "karpuz_fr",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951325,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "pizzaustasi31v2"
+    },
+    {
+      "position": 498,
+      "username": "tugrahan.eyiguney",
+      "displayName": "tugrahan.eyiguney",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951318,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "duran_yrar"
+    },
+    {
+      "position": 499,
+      "username": "yusuf_atilla06",
+      "displayName": "yusuf_atilla06",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951309,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "syed4aa"
+    },
+    {
+      "position": 500,
+      "username": "m.yagiz.21",
+      "displayName": "m.yagiz.21",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951297,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "memoli_fc1905"
+    },
+    {
+      "position": 501,
+      "username": "xwxtvx",
+      "displayName": "xwxtvx",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951290,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "qumit_42"
+    },
+    {
+      "position": 502,
+      "username": "3ymen_c1c3k",
+      "displayName": "3ymen_c1c3k",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951283,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "firatyildirim_3065"
+    },
+    {
+      "position": 503,
+      "username": "gmclyt37",
+      "displayName": "gmclyt37",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951277,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "patateskingo"
+    },
+    {
+      "position": 504,
+      "username": "cina.aaarrr",
+      "displayName": "cina.aaarrr",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951262,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "xq_h4sqn"
+    },
+    {
+      "position": 505,
+      "username": "mehmetaliyse",
+      "displayName": "mehmetaliyse",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951248,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "_kado255"
+    },
+    {
+      "position": 506,
+      "username": "onurgenc500300",
+      "displayName": "onurgenc500300",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951215,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "alperenmcc"
+    },
+    {
+      "position": 507,
+      "username": "33aliiiata242",
+      "displayName": "33aliiiata242",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951215,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "g0dlwyz"
+    },
+    {
+      "position": 508,
+      "username": "g0dlwyz",
+      "displayName": "g0dlwyz",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951215,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "33aliiiata242"
+    },
+    {
+      "position": 509,
+      "username": "35candas_ataseven64",
+      "displayName": "35candas_ataseven64",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951208,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "kuzeyfener"
+    },
+    {
+      "position": 510,
+      "username": "gonyali_e3kek2012",
+      "displayName": "gonyali_e3kek2012",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951201,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "_ilkerbascii"
+    },
+    {
+      "position": 511,
+      "username": "potispoteito2134",
+      "displayName": "potispoteito2134",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951194,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "yusuf_alonsooo33"
+    },
+    {
+      "position": 512,
+      "username": "hayrettin_tosun35",
+      "displayName": "hayrettin_tosun35",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951194,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "kedi.leyla.2021"
+    },
+    {
+      "position": 513,
+      "username": "lelyf.123",
+      "displayName": "lelyf.123",
+      "eliminations": 1,
+      "timeOfDeath": 1756026951168,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "dorukxbmw"
+    },
+    {
+      "position": 514,
+      "username": "egeozturk955",
+      "displayName": "egeozturk955",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951168,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "ufuq_w7"
+    },
+    {
+      "position": 515,
+      "username": "fu61at",
+      "displayName": "fu61at",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951154,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "m.yagiz.21"
+    },
+    {
+      "position": 516,
+      "username": "omer_glr23",
+      "displayName": "omer_glr23",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951141,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "hacimustafadeveci"
+    },
+    {
+      "position": 517,
+      "username": "ardawq242atinins2",
+      "displayName": "ardawq242atinins2",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951119,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "cosk_n_"
+    },
+    {
+      "position": 518,
+      "username": "alperengurler.1642",
+      "displayName": "alperengurler.1642",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951119,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "miracsz11"
+    },
+    {
+      "position": 519,
+      "username": "transformers_tr_birligi",
+      "displayName": "transformers_tr_birligi",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951112,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "bsrakbal"
+    },
+    {
+      "position": 520,
+      "username": "alidemirtas_.15",
+      "displayName": "alidemirtas_.15",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951104,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "eyup_.4402"
+    },
+    {
+      "position": 521,
+      "username": "hik_ozl10",
+      "displayName": "hik_ozl10",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951104,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "mertemiry443"
+    },
+    {
+      "position": 522,
+      "username": "ayse.basel",
+      "displayName": "ayse.basel",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951084,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "firat.2177"
+    },
+    {
+      "position": 523,
+      "username": "el_salvador_offical",
+      "displayName": "el_salvador_offical",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951077,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "necmiberkeuzunlas"
+    },
+    {
+      "position": 524,
+      "username": "kuzey_gunes10",
+      "displayName": "kuzey_gunes10",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951056,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "cicekenes027"
+    },
+    {
+      "position": 525,
+      "username": "fatih.enes.yilmaz",
+      "displayName": "fatih.enes.yilmaz",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951048,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "yakupkus_55"
+    },
+    {
+      "position": 526,
+      "username": "xlyusuf43",
+      "displayName": "xlyusuf43",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951034,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "19semih01"
+    },
+    {
+      "position": 527,
+      "username": "paranoidxute",
+      "displayName": "paranoidxute",
+      "eliminations": 0,
+      "timeOfDeath": 1756026951006,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:51",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "yasin_yenidunya_"
+    },
+    {
+      "position": 528,
+      "username": "shitpostdiysri78",
+      "displayName": "shitpostdiysri78",
+      "eliminations": 1,
+      "timeOfDeath": 1756026950992,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "mert_sglm53"
+    },
+    {
+      "position": 529,
+      "username": "anl_guler19",
+      "displayName": "anl_guler19",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950985,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "yagz_jk.7"
+    },
+    {
+      "position": 530,
+      "username": "yigit_eymen_ertan55",
+      "displayName": "yigit_eymen_ertan55",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950912,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "kralxpro2013"
+    },
+    {
+      "position": 531,
+      "username": "eren_delidere",
+      "displayName": "eren_delidere",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950891,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "omerasaf_ak100"
+    },
+    {
+      "position": 532,
+      "username": "selohattin",
+      "displayName": "selohattin",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950858,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "nur.valo"
+    },
+    {
+      "position": 533,
+      "username": "gm1rq8",
+      "displayName": "gm1rq8",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950844,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "shitpostdiysri78"
+    },
+    {
+      "position": 534,
+      "username": "keremimsiii",
+      "displayName": "keremimsiii",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950805,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "berat44uzun"
+    },
+    {
+      "position": 535,
+      "username": "berke_.1.6",
+      "displayName": "berke_.1.6",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950746,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "seym1n11"
+    },
+    {
+      "position": 536,
+      "username": "mirackby0",
+      "displayName": "mirackby0",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950718,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "mehran31x82"
+    },
+    {
+      "position": 537,
+      "username": "fevzi_bakir34",
+      "displayName": "fevzi_bakir34",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950703,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "fatihangulmen"
+    },
+    {
+      "position": 538,
+      "username": "beratt_kul",
+      "displayName": "beratt_kul",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950683,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "m.talha_"
+    },
+    {
+      "position": 539,
+      "username": "4dn4n.09",
+      "displayName": "4dn4n.09",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950644,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "lelyf.123"
+    },
+    {
+      "position": 539,
+      "username": "aliyamanq",
+      "displayName": "aliyamanq",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950548,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "alimoncul"
+    },
+    {
+      "position": 540,
+      "username": "aliyamanq",
+      "displayName": "aliyamanq",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950548,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "mehmetsaglam9363"
+    },
+    {
+      "position": 541,
+      "username": "twes_s1",
+      "displayName": "twes_s1",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950529,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:04",
+        "elapsedSeconds": 4
+      },
+      "eliminatedBy": "noxveil_tr"
+    },
+    {
+      "position": 542,
+      "username": "zanae56",
+      "displayName": "zanae56",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950462,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:03",
+        "elapsedSeconds": 3
+      },
+      "eliminatedBy": "emoo.fr"
+    },
+    {
+      "position": 543,
+      "username": "dursunqe",
+      "displayName": "dursunqe",
+      "eliminations": 0,
+      "timeOfDeath": 1756026950448,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:03",
+        "elapsedSeconds": 3
+      },
+      "eliminatedBy": "yagizalpozpk"
+    },
+    {
+      "position": 544,
+      "username": "celebi81_",
+      "displayName": "celebi81_",
+      "eliminations": 1,
+      "timeOfDeath": 1756026950216,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:50",
+        "elapsedTime": "0:03",
+        "elapsedSeconds": 3
+      },
+      "eliminatedBy": "alperenmcc"
+    },
+    {
+      "position": 544,
+      "username": "x_mami02.x",
+      "displayName": "x_mami02.x",
+      "eliminations": 0,
+      "timeOfDeath": 1756026949820,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:49",
+        "elapsedTime": "0:03",
+        "elapsedSeconds": 3
+      },
+      "eliminatedBy": "celebi81_"
+    },
+    {
+      "position": 545,
+      "username": "x_mami02.x",
+      "displayName": "x_mami02.x",
+      "eliminations": 0,
+      "timeOfDeath": 1756026949820,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:49",
+        "elapsedTime": "0:03",
+        "elapsedSeconds": 3
+      },
+      "eliminatedBy": "wrapitup212"
+    },
+    {
+      "position": 546,
+      "username": "musa__yilmaz_33",
+      "displayName": "musa__yilmaz_33",
+      "eliminations": 0,
+      "timeOfDeath": 1756026949561,
+      "timeOfDeathFormatted": {
+        "clockTime": "12:15:49",
+        "elapsedTime": "0:03",
+        "elapsedSeconds": 3
+      },
+      "eliminatedBy": "eyup_.4402"
+    }
+  ]
+}
