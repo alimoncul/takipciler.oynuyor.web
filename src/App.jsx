@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useMatchData } from './hooks/useMatchData';
 import MatchCard from './components/MatchCard';
 import MatchDetails from './components/MatchDetails';
@@ -14,13 +14,36 @@ function App() {
   const filteredMatches = getMatchesByDate(selectedDate);
   const availableDates = getAvailableDates();
 
+  // Auto-select the latest match when matches are loaded
+  useEffect(() => {
+    if (matches.length > 0 && !selectedMatch && !loading) {
+      const latestMatch = filteredMatches.length > 0 ? filteredMatches[0] : matches[0];
+      setSelectedMatch(latestMatch);
+    }
+  }, [matches, filteredMatches, selectedMatch, loading]);
+
   const handleDateChange = (date) => {
     setSelectedDate(date);
     setSelectedMatch(null); // Clear selected match when changing date
+
+    // Auto-select the latest match for the new date
+    setTimeout(() => {
+      const matchesForDate = getMatchesByDate(date);
+      if (matchesForDate.length > 0) {
+        setSelectedMatch(matchesForDate[0]);
+      }
+    }, 0);
   };
 
   const handleClearDate = () => {
     setSelectedDate(null);
+
+    // Auto-select the latest match when clearing date filter
+    setTimeout(() => {
+      if (matches.length > 0) {
+        setSelectedMatch(matches[0]);
+      }
+    }, 0);
   };
 
   const handleMatchSelect = (match) => {
@@ -76,7 +99,7 @@ function App() {
               <span className="text-sm font-mono tracking-wider"><a href='https://www.instagram.com/takipciler.oynuyor/'>takipciler.oynuyor</a></span>
             </div>
           </div>
-          <p className="text-gray-400 text-lg">
+          <p className="text-gray-400 text-sm">
             Yarışma sonuçlarınızı buradan detaylı görüntüleyin
           </p>
         </div>
