@@ -52,13 +52,31 @@ export function useMatchData() {
     const files = [];
 
     // Try to load the existing file we know about from matches folder
-    try {
-      const response = await fetch('./matches/match1.json');
-      if (response.ok) {
-        files.push('matches/match1.json');
+    let i = 1;
+    let consecutiveFailures = 0;
+    const maxConsecutiveFailures = 3; // Stop after 3 consecutive failures
+    
+    while (consecutiveFailures < maxConsecutiveFailures) {
+      try {
+        const response = await fetch(`./matches/match${i}.json`);
+        if (response.ok) {
+          const text = await response.text();
+          try {
+            // Try to parse as JSON - if it fails, it's probably a 404 page
+            JSON.parse(text);
+            files.push(`matches/match${i}.json`);
+            consecutiveFailures = 0; // Reset failure count on success
+          } catch (jsonErr) {
+            // Response was 200 but not valid JSON (probably 404 page)
+            consecutiveFailures++;
+          }
+        } else {
+          consecutiveFailures++;
+        }
+      } catch (err) {
+        consecutiveFailures++;
       }
-    } catch (err) {
-      console.warn('Could not load match file');
+      i++;
     }
 
     // In a real implementation, you might want to:
